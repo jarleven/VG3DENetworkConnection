@@ -11,4 +11,12 @@ https://gitprint.com/jarleven/VG3DENetworkConnection/blob/master/DE1130A–R1–
 
 wget -O DE1130A–R1–P1.pdf https://gitprint.com/jarleven/VG3DENetworkConnection/blob/master/DE1130A–R1–P1.md?download
 
+
+#https://tex.stackexchange.com/questions/134365/installation-of-texlive-full-on-ubuntu-12-04
+#https://pandoc.org/getting-started.html
+sudo apt install texlive-full
+sudo apt install pandoc
+
+pandoc DE1130A–R1–P1.md -s -o DE1130A–R1–P1.pdf
+
 ```
