@@ -11,7 +11,7 @@
 |Rom                |Navn                 |Status|
 |---                |---                  |---   |
 |DE 2101A – R1 – P1 | Augustin            |DONE  |
-|DE 2101A – R1 – P2 | Aleksander/Erik     |      |
+|DE 2101A – R1 – P2 | Aleksander/Erik     |DONE  |
 |DE 2101A – R1 – P3 |                     |Ny    |
 |DE 2101A – R3 – P1 | Rex                 |DONE  |
 |DE 2101A – R3 – P2 |                     |Ny    |
