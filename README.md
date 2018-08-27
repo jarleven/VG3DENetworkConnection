@@ -13,7 +13,7 @@
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 
 ## Oppgåver 27.08.2018
-|Rom          |Navn                 |Status|Verified|
+|Rom          |Navn                 |Created|Verified|
 |---          |---                  |---   |--------|
 |DE2101A–R1–P1| Augustin            |DONE  ||
 |DE2101A–R1–P2| Aleksander/Erik     |DONE  ||
