@@ -20,6 +20,8 @@ do
 	echo "$i"
         pandoc "./Panels/"$i".md" -s -o $i".pdf"
 
+	pdfjam --outfile  $i".pdf" --paper a4paper --scale 1.6 $i".pdf"
+
 	#	wget -O $i.pdf https://gitprint.com/RexTheCapt/VG3DENetworkConnection/blob/master/Panels/$i.md?download
         pdflist=$pdflist$i".pdf "
 	echo $pdflist
@@ -33,6 +35,8 @@ done
 
 
 pandoc Legend.md -s -o Legend.pdf
+pdfjam --outfile  Legend.pdf --paper a4paper --scale 1.6 Legend.pdf
+
 pdflist="Legend.pdf "$pdflist
 
 
