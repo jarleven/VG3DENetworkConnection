@@ -9,11 +9,11 @@
 
 ## Oppgåver 27.08.2018
 
-* DE 2101A – R1 – P1   Augustin
+* DE 2101A – R1 – P1   Augustin             DONE
 * DE 2101A – R1 – P2   Aleksander/Erik
-* DE 2101A – R3 – P1   Rex
-* DE 2116A – R1 – P1   Tommy
-* DE 1130A – R1 – P1   DONE
-* DE 1130A – R1 – P2   Mardon
+* DE 2101A – R3 – P1   Rex                  DONE
+* DE 2116A – R1 – P1   Tommy                DONE
+* DE 1130A – R1 – P1                        DONE
+* DE 1130A – R1 – P2   Mardon               DONE
 
 
