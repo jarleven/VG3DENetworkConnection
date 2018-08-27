@@ -9,6 +9,9 @@ https://gist.github.com/justincbagley/ec0a6334cc86e854715e459349ab1446
 
 https://gitprint.com/jarleven/VG3DENetworkConnection/blob/master/DE1130A–R1–P1.md
 
+https://gist.github.com/M1ke/7681965
+
+
 ```
 wget -O DE1130A–R1–P1.pdf https://gitprint.com/jarleven/VG3DENetworkConnection/blob/master/DE1130A–R1–P1.md?download
 
