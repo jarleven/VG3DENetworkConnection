@@ -6,3 +6,13 @@
 * Terminere alle lause ledninger (Fullføre arbeidet starta våren 2018)
 * Dokumentere 2ELA
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
+
+
+* DE 2101A – R1 – P1   Augustin
+* DE 2101A – R1 – P2   Aleksander/Erik
+* DE 2101A – R3 – P1   Rex
+* DE 2116A – R1 – P1   Tommy
+* DE 1130A – R1 – P1   DONE
+* DE 1130A – R1 – P2   Mardon
+
+
