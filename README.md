@@ -30,5 +30,8 @@
 |2ELA         |                     |TODO  ||
 |Garasje fiber|                     |TODO  ||
 |LAB fiber    |                     |TODO  ||
+|Inntak       | Kåre                |TODO  ||
+|Loft         | Kåre                |TODO  ||
+|Loft til tak | Jarl Even           |TODO  ||
 
 
