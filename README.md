@@ -21,5 +21,5 @@
 |DE2101A–R3–P1| Rex                 |DONE  ||
 |DE2101A–R3–P2|                     |Ny    ||
 |DE2116A–R1–P1| Tommy               |DONE  ||
-|DE1130A–R1–P1|                     |DONE  ||
+|DE1130A–R1–P1| Jarl Even           |DONE  ||
 |DE1130A–R1–P2| Mardon              |DONE  ||
