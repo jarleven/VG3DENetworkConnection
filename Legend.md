@@ -3,7 +3,7 @@
 2-115A	= 2DEA Klasserom 8
 2-116B  = 3AUA Klasserom 9
 2-101A	= 3DEA Klasserom 101
-1-129?	= 2ELA sudo 
+1-129?	= 2ELA 
 1-132A	= 2AUA Klasserom 4
 1-130A	= LAB
 
