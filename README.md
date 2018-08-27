@@ -21,7 +21,7 @@
 |DE2101A–R3–P1| Rex                 |DONE   |        |
 |DE2101A–R3–P2|                     |Ny     |        |
 |DE2116A–R1–P1| Tommy               |DONE   |        |
-|DE1130A–R1–P1| Jarl Even           |DONE   |        |
+|DE1130A–R1–P1| Jarl Even   -MAL-   |DONE   |        |
 |DE1130A–R1–P2| Mardon              |DONE   |        |
 |DE1132A–R1–P1|                     |Ny     |        |
 |DE1132A–R1–P2|                     |Ny     |        |
@@ -33,5 +33,12 @@
 |Inntak       | Kåre                |TODO   |        |
 |Loft         | Kåre                |TODO   |        |
 |Loft til tak | Jarl Even           |TODO   |        |
+
+
+* Lengde og demping høgrejustert
+* Lengde og demping 1 desimal
+* Lengde og demping bruke komma eller punktum
+* "Til" bruke følgande form "DE-2101A-R1-P1 #22"  ikkje "DE-2101A-R1-P1-22"
+* Overskrifta "DE 1130A – R1 – P1 LAB" i denne er LAB det same som rom 1130 altså labben
 
 
