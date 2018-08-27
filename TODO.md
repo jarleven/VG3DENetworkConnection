@@ -7,6 +7,7 @@
 * Dokumentere 2ELA
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 
+## Oppgåver 27.08.2018
 
 * DE 2101A – R1 – P1   Augustin
 * DE 2101A – R1 – P2   Aleksander/Erik
