@@ -23,3 +23,5 @@
 |DE2116A–R1–P1| Tommy               |DONE  ||
 |DE1130A–R1–P1| Jarl Even           |DONE  ||
 |DE1130A–R1–P2| Mardon              |DONE  ||
+|DE1132A–R1–P1|                     |Ny    ||
+|DE1132A–R1–P2|                     |Ny    ||
