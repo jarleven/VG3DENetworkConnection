@@ -1,11 +1,11 @@
 ## Romkodar
 ```
-2-115	= 2DEA Klasserom 8
+2-115 = 2DEA Klasserom 8
 2-116 = 3AUA Klasserom 9
-2-101	= 3DEA Klasserom 101
-1-129	= 2ELA 
-1-132	= 2AUA Klasserom 4
-1-130	= LAB
+2-101 = 3DEA Klasserom 101
+1-129 = 2ELA 
+1-132 = 2AUA Klasserom 4
+1-130 = LAB
 Lager
 Garasje
 Loft
