@@ -35,14 +35,14 @@
 |Loft til tak | Jarl Even           |TODO   |        |
 
 ## Teikningar 
-|    Patch    |      Ansvarleg      | Papir | Elektronisk |
+|    Rom      |      Ansvarleg      | Papir | Elektronisk |
 |-------------|---------------------|-------|-------------|
-|             |                     |  [ ]  |    [ ]      |
+|             |                     |       |             |
 
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
 * Lengde og demping bruke komma eller punktum
-* "Til" bruke følgande form "DE-2101A-R1-P1 #22"  ikkje "DE-2101A-R1-P1-22"
+* "Tilkopling" bruke følgande form "DE-2101A-R1-P1 #22"  ikkje "DE-2101A-R1-P1-22"
 * Overskrifta "DE 1130A – R1 – P1 LAB" i denne er LAB det same som rom 1130 altså labben
 * Teikningar legg orginalen inn på GitHub (Vi ser på TortoiseGit https://tortoisegit.org/
 * Vi ser og på enkel bruk av Git via CLI (Linux i dette tilfellet)
