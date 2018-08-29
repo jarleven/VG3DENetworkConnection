@@ -3,7 +3,15 @@
 <p>In this repository me and my class is creating an network map for our classes</p>
 <p>Mostly it will cover the patch panels and network terminations</p>
 
-
+```
+2-115 = 2DEA Klasserom 8
+2-116 = 3AUA Klasserom 9
+2-101 = 3DEA Klasserom 101
+1-129 = 2ELA 
+1-132 = 2AUA Klasserom 4
+1-130 = LAB
+1-124 = Lager
+```
 
 ## Panel list
 
@@ -21,14 +29,12 @@
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
-|3AUA                                    |                     |        |NO     |                                    |
-|Lager                                   |                     |        |NO     |                                    |
-|2ELA                                    |                     |        |NO     |                                    |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |NO     |                                    |
+|[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
 |Garasje fiber                           |                     |        |NO     |                                    |
 |LAB fiber                               |                     |        |NO     |                                    |
-|Inntak                                  | Kåre                |        |NO     |                                    |
-|Loft                                    | Kåre                |        |NO     |                                    |
-|Loft til tak                            | Jarl Even           |        |NO     |                                    |
+|[INNTAK](Panels/Leftovers.md)           | Jarl Even           |        |DONE   |                                    |
+|Loft                                    | Jarl Even           |        |NO     |                                    |
 
 
 ## Drawings 
