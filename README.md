@@ -23,7 +23,7 @@
 |DE2116A–R1–P1| Tommy               |DONE   |        |
 |DE1130A–R1–P1| Jarl Even   -MAL-   |DONE   |        |
 |DE1130A–R1–P2| Mardon              |DONE   |        |
-|DE1132A–R1–P1| Tommy/Simon         |New    |        |
+|DE1132A–R1–P1| Tommy/Simon         |DONE   |        |
 |DE1132A–R1–P2|                     |New    |        |
 |3AUA         |                     |TODO   |        |
 |Lager        |                     |TODO   |        |
