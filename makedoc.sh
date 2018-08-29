@@ -21,6 +21,8 @@ pdflist=''
 ## now loop through the above array
 for i in "${arr[@]}"
 do
+	echo ""
+	echo ""
 	echo "$i"
 
 	## generate and scale
@@ -31,7 +33,7 @@ do
 
 	## append very panel to the list
 	pdflist=$pdflist$i".pdf "
-	echo $pdflist
+	#echo $pdflist
 done
 
 #pandoc DE1130A-R1-P1.md -s -o DE1130A-R1-P1.pdf
@@ -39,12 +41,18 @@ done
 #pandoc TODO.md -s -o TODO.pdf
 
 ## generate and scale
+echo ""
+echo ""
+echo "Legend"
 pandoc Legend.md -s -o Legend.pdf
 pdfjam --outfile  Legend.pdf --paper a4paper --scale 1.6 Legend.pdf
 
 ## add the legend to the list
 pdflist="Legend.pdf "$pdflist
 
+echo ""
+echo ""
+echo "Make one document"
 ## concatenate all the pdf files to one
 pdftk $pdflist cat output Dokumentasjon-autogen.pdf
 
