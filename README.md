@@ -34,10 +34,10 @@
 |Loft         | Kåre                |TODO   |        |
 |Loft til tak | Jarl Even           |TODO   |        |
 
-## Teikningar 
-|    Rom      |      Ansvarleg      | Papir | Elektronisk |
+## Drawings 
+|    Room     |     Coordinator     | Paper | Electronic  |
 |-------------|---------------------|-------|-------------|
-|             |                     |       |             |
+|DE2101A      |Augustin             |       |             |
 
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
