@@ -8,10 +8,10 @@ declare -a arr=( \
  "DE1132A-R1-P1" \
  "DE2010A-R3-P2" \
  "DE2101A-R1-P1" \
- "DE2101A–R1–P2" \
- "DE2101A–R1–P3" \
+ "DE2101A-R1-P2" \
+ "DE2101A-R1-P3" \
  "DE2101A-R3-P1" \
-" DE2116A–R1–P1" \
+" DE2116A-R1-P1" \
 
  )
 
@@ -34,7 +34,7 @@ do
 	echo $pdflist
 done
 
-#pandoc DE1130A–R1–P1.md -s -o DE1130A–R1–P1.pdf
+#pandoc DE1130A-R1-P1.md -s -o DE1130A-R1-P1.pdf
 #pandoc Legend.md -s -o Legend.pdf
 #pandoc TODO.md -s -o TODO.pdf
 
@@ -48,5 +48,5 @@ pdflist="Legend.pdf "$pdflist
 ## concatenate all the pdf files to one
 pdftk $pdflist cat output Dokumentasjon-autogen.pdf
 
-# git log -1 --format="%ad" -- Panels/DE1130A–R1–P2.md
+# git log -1 --format="%ad" -- Panels/DE1130A-R1-P2.md
 # Mon Aug 27 15:09:08 2018 +0200
