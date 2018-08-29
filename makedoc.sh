@@ -2,13 +2,18 @@
 
 ## declare an array of patchpanel files
 declare -a arr=( \
- "DE1130A–R1–P1" \
- "DE1130A–R1–P2" \
- "DE2101A–R1–P1" \
+
+ "DE1130A-R1-P1" \
+ "DE1130A-R1-P2" \
+ "DE1132A-R1-P1" \
+ "DE2010A-R3-P2" \
+ "DE2101A-R1-P1" \
  "DE2101A–R1–P2" \
+ "DE2101A–R1–P3" \
  "DE2101A-R3-P1" \
- "DE2116A–R1–P1" \
-              )
+" DE2116A–R1–P1" \
+
+ )
 
 ## variable for the list of filenames to put into one pdf
 pdflist=''
