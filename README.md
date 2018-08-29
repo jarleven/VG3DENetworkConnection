@@ -42,6 +42,8 @@
 |-------------|---------------------|-------|-------------|
 |DE2101A      |Augustin             |       |             |
 |DE2115A      |Augustin             |       |             |
+|DE2116A      |Augustin             |       |             |
+
 
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
