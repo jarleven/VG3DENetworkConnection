@@ -10,16 +10,18 @@
 1-124 = Lager
 ```
 
+## Blokk - Etasje- Rom - Dør
 ```
-Blokk - Etasje- Rom - Dør
-  X-YXXA
-  | | | |-----> DØR
-  | | | 
-  | | |-------> ROM
-  | |
-  | |---------> ETASJE
-  |
+ 
   |------------> BLOKK
+  |
+  | |---------> ETASJE
+  | |  
+  | | |-------> ROM
+  | | |
+  | | ||-----> DØR
+  X-YXXA
+  
   
 ```
 
