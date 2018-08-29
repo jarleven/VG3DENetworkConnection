@@ -8,10 +8,10 @@ declare -a arr=( \
  "DE1132A-R1-P1" \
  "DE2010A-R3-P2" \
  "DE2101A-R1-P1" \
- "DE2101A–R1–P2" \
- "DE2101A–R1–P3" \
+ "DE2101A-R1-P2" \
+ "DE2101A-R1-P3" \
  "DE2101A-R3-P1" \
-" DE2116A–R1–P1" \
+" DE2116A-R1-P1" \
 
  )
 
