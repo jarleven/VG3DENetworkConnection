@@ -33,7 +33,7 @@
 |[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
 |Garasje fiber                           |                     |        |NO     |                                    |
 |LAB fiber                               |                     |        |NO     |                                    |
-|[INNTAK](Panels/Leftovers.md)           | Jarl Even           |        |DONE   |                                    |
+|[External](Panels/Leftovers.md)           | Jarl Even           |        |DONE   |                                    |
 |Loft                                    | Jarl Even           |        |NO     |                                    |
 
 
