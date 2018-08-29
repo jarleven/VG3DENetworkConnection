@@ -3,39 +3,42 @@
 <p>In this repository me and my class is creating an network map for our classes</p>
 <p>Mostly it will cover the patch panels and network terminations</p>
 
-## Ei liste med oppgåver 
+```
+1-124 = Lager
+1-129 = 2ELA Klasserom ??
+1-130 = LAB
+1-132 = 2AUA Klasserom 4
+2-101 = 3DEA Klasserom 101
+2-115 = 2DEA Klasserom 8
+2-116 = 3AUA Klasserom 9
+x-XXX = Loft
+x-XXX = Garasje
 
-* Kva har vi av utstyr i dei forskjellige romma
-* Kva er allerede dokumentert
-* Verifisere dokumentasjonen
-* Terminere alle lause ledninger (Fullføre arbeidet starta våren 2018)
-* Dokumentere 2ELA
-* Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
+```
 
 ## Panel list
 
 * [Link to the mal file](Panels/MAL.md)
 
-|                  Patch                 |     Coordinator     |Created|Verified|
-|----------------------------------------|---------------------|-------|--------|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |DONE   |        |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |DONE   |        |
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |DONE   |No      |
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |DONE   |        |
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |DONE   |No      |
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)| Tommy               |DONE   |        |
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |DONE   |        |
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |DONE   |        |
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |DONE   |        |
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |DONE   |        |
-|3AUA                                    |                     |NO     |        |
-|Lager                                   |                     |NO     |        |
-|2ELA                                    |                     |NO     |        |
-|Garasje fiber                           |                     |NO     |        |
-|LAB fiber                               |                     |NO     |        |
-|Inntak                                  | Kåre                |NO     |        |
-|Loft                                    | Kåre                |NO     |        |
-|Loft til tak                            | Jarl Even           |NO     |        |
+|                  Patch                 |     Coordinator     |Verified|Created|TODO                                |
+|----------------------------------------|---------------------|--------|-------|------------------------------------|
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |        |DONE   |                                    |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
+|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |No      |DONE   |                                    |
+|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |        |DONE   |                                    |
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |No      |DONE   |                                    |
+|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)| Tommy               |        |DONE   |                                    |
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |        |DONE   |                                    |
+|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
+|LAB fiber                               |                     |        |NO     |                                    |
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |DONE   |                                    |
+|[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
+|Garasje fiber                           |                     |        |NO     |                                    |
+|[External](Panels/Leftovers.md)         | Jarl Even           |        |DONE   |                                    |
+|Loft                                    | Jarl Even           |        |NO     |                                    |
+
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
@@ -45,6 +48,14 @@
 |DE2116A      |Augustin             |       |             |
 
 
+## Ei liste med oppgåver 
+
+* Kva har vi av utstyr i dei forskjellige romma
+* Kva er allerede dokumentert
+* Verifisere dokumentasjonen
+* Terminere alle lause ledninger (Fullføre arbeidet starta våren 2018)
+* Dokumentere 2ELA
+* Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
 * Lengde og demping bruke komma eller punktum
