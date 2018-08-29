@@ -12,14 +12,14 @@
 * Dokumentere 2ELA
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 
-## Oppgåver 27.08.2018
+## Panel list
 
 * [Link to the mal file](Panels/MAL.md)
 
 |                  Patch                 |     Coordinator     |Created|Verified|
 |----------------------------------------|---------------------|-------|--------|
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |DONE   |        |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |TODO   |        |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |DONE   |        |
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |DONE   |No      |
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |DONE   |        |
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |DONE   |No      |
@@ -27,15 +27,15 @@
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |DONE   |        |
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |DONE   |        |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |DONE   |        |
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |TODO   |        |
-|3AUA                                    |                     |TODO   |        |
-|Lager                                   |                     |TODO   |        |
-|2ELA                                    |                     |TODO   |        |
-|Garasje fiber                           |                     |TODO   |        |
-|LAB fiber                               |                     |TODO   |        |
-|Inntak                                  | Kåre                |TODO   |        |
-|Loft                                    | Kåre                |TODO   |        |
-|Loft til tak                            | Jarl Even           |TODO   |        |
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |DONE   |        |
+|3AUA                                    |                     |NO     |        |
+|Lager                                   |                     |NO     |        |
+|2ELA                                    |                     |NO     |        |
+|Garasje fiber                           |                     |NO     |        |
+|LAB fiber                               |                     |NO     |        |
+|Inntak                                  | Kåre                |NO     |        |
+|Loft                                    | Kåre                |NO     |        |
+|Loft til tak                            | Jarl Even           |NO     |        |
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
