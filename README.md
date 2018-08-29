@@ -16,7 +16,7 @@
 |    Patch    |     Coordinator     |Created|Verified|
 |-------------|---------------------|-------|--------|
 |DE2101A–R1–P1| Augustin            |DONE   |        |
-|DE2101A–R1–P2| Augustin            |TODO   |        |
+|DE2101A–R1–P2| Aleksander/Erik     |TODO   |        |
 |DE2101A–R1–P3| Rex/Simon           |DONE   |No      |
 |DE2101A–R3–P1| Rex                 |DONE   |        |
 |DE2101A–R3–P2| Rex/Simon           |DONE   |No      |
