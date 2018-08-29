@@ -13,18 +13,18 @@
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 
 ## Oppgåver 27.08.2018
-|    Patch    |      Ansvarleg      |Created|Verified|
+|    Patch    |     Coordinator     |Created|Verified|
 |-------------|---------------------|-------|--------|
 |DE2101A–R1–P1| Augustin            |DONE   |        |
 |DE2101A–R1–P2| Aleksander/Erik     |DONE   |        |
-|DE2101A–R1–P3|                     |Ny     |        |
+|DE2101A–R1–P3| Rex                 |New    |        |
 |DE2101A–R3–P1| Rex                 |DONE   |        |
-|DE2101A–R3–P2|                     |Ny     |        |
+|DE2101A–R3–P2|                     |New    |        |
 |DE2116A–R1–P1| Tommy               |DONE   |        |
 |DE1130A–R1–P1| Jarl Even   -MAL-   |DONE   |        |
 |DE1130A–R1–P2| Mardon              |DONE   |        |
-|DE1132A–R1–P1|                     |Ny     |        |
-|DE1132A–R1–P2|                     |Ny     |        |
+|DE1132A–R1–P1| Tommy/Simon         |New    |        |
+|DE1132A–R1–P2|                     |New    |        |
 |3AUA         |                     |TODO   |        |
 |Lager        |                     |TODO   |        |
 |2ELA         |                     |TODO   |        |
@@ -34,10 +34,10 @@
 |Loft         | Kåre                |TODO   |        |
 |Loft til tak | Jarl Even           |TODO   |        |
 
-## Teikningar 
-|    Rom      |      Ansvarleg      | Papir | Elektronisk |
+## Drawings 
+|    Room     |     Coordinator     | Paper | Electronic  |
 |-------------|---------------------|-------|-------------|
-|             |                     |       |             |
+|DE2101A      |Augustin             |       |             |
 
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
