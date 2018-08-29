@@ -4,13 +4,16 @@
 <p>Mostly it will cover the patch panels and network terminations</p>
 
 ```
+1-124 = Lager
+1-129 = 2ELA Klasserom ??
+1-130 = LAB
+1-132 = 2AUA Klasserom 4
+2-101 = 3DEA Klasserom 101
 2-115 = 2DEA Klasserom 8
 2-116 = 3AUA Klasserom 9
-2-101 = 3DEA Klasserom 101
-1-129 = 2ELA 
-1-132 = 2AUA Klasserom 4
-1-130 = LAB
-1-124 = Lager
+x-XXX = Loft
+x-XXX = Garasje
+
 ```
 
 ## Panel list
@@ -27,12 +30,12 @@
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)| Tommy               |        |DONE   |                                    |
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |        |DONE   |                                    |
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
+|LAB fiber                               |                     |        |NO     |                                    |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |DONE   |                                    |
 |[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
 |Garasje fiber                           |                     |        |NO     |                                    |
-|LAB fiber                               |                     |        |NO     |                                    |
 |[External](Panels/Leftovers.md)         | Jarl Even           |        |DONE   |                                    |
 |Loft                                    | Jarl Even           |        |NO     |                                    |
 
