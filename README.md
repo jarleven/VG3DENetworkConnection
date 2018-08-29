@@ -29,11 +29,11 @@
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |NO     |                                    |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |DONE   |                                    |
 |[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
 |Garasje fiber                           |                     |        |NO     |                                    |
 |LAB fiber                               |                     |        |NO     |                                    |
-|[External](Panels/Leftovers.md)           | Jarl Even           |        |DONE   |                                    |
+|[External](Panels/Leftovers.md)         | Jarl Even           |        |DONE   |                                    |
 |Loft                                    | Jarl Even           |        |NO     |                                    |
 
 
