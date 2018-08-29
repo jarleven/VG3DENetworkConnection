@@ -19,15 +19,15 @@
 |                  Patch                 |     Coordinator     |Created|Verified|
 |----------------------------------------|---------------------|-------|--------|
 |[DE2101A–R1–P1](Panels/DE2101A-R1-P1.md)| Augustin            |DONE   |        |
-|[DE2101A–R1–P2](Panels/DE2101A–R1–P2.md)| Aleksander/Erik     |TODO   |        |
-|[DE2101A–R1–P3](Panels/DE2101A–R1–P3.md)| Rex/Simon           |DONE   |No      |
-|[DE2101A–R3–P1](Panels/DE2101A–R3–P1.md)| Rex                 |DONE   |        |
-|[DE2101A–R3–P2](Panels/DE2101A–R3–P2.md)| Rex/Simon           |DONE   |No      |
-|[DE2116A–R1–P1](Panels/DE2116A–R1–P1.md)| Tommy               |DONE   |        |
-|[DE1130A–R1–P1](Panels/DE1130A–R1–P1.md)| Jarl Even           |DONE   |        |
-|[DE1130A–R1–P2](Panels/DE1130A–R1–P2.md)| Mardon              |DONE   |        |
-|[DE1132A–R1–P1](Panels/DE1132A–R1–P1.md)| Tommy/Simon         |DONE   |        |
-|[DE1132A–R1–P2](Panels/DE1132A–R1–P2.md)|                     |New    |        |
+|[DE2101A–R1–P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |TODO   |        |
+|[DE2101A–R1–P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |DONE   |No      |
+|[DE2101A–R3–P1](Panels/DE2101A-R3-P1.md)| Rex                 |DONE   |        |
+|[DE2101A–R3–P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |DONE   |No      |
+|[DE2116A–R1–P1](Panels/DE2116A-R1-P1.md)| Tommy               |DONE   |        |
+|[DE1130A–R1–P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |DONE   |        |
+|[DE1130A–R1–P2](Panels/DE1130A-R1-P2.md)| Mardon              |DONE   |        |
+|[DE1132A–R1–P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |DONE   |        |
+|[DE1132A–R1–P2](Panels/DE1132A-R1-P2.md)|                     |New    |        |
 |3AUA                                    |                     |TODO   |        |
 |Lager                                   |                     |TODO   |        |
 |2ELA                                    |                     |TODO   |        |
