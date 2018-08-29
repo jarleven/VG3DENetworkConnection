@@ -42,3 +42,6 @@ pdflist="Legend.pdf "$pdflist
 
 ## concatenate all the pdf files to one
 pdftk $pdflist cat output Dokumentasjon-autogen.pdf
+
+# git log -1 --format="%ad" -- Panels/DE1130A–R1–P2.md
+# Mon Aug 27 15:09:08 2018 +0200
