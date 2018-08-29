@@ -38,6 +38,7 @@
 |    Room     |     Coordinator     | Paper | Electronic  |
 |-------------|---------------------|-------|-------------|
 |DE2101A      |Augustin             |       |             |
+|DE2115A      |Augustin             |       |             |
 
 * Lengde og demping høgrejustert
 * Lengde og demping 1 desimal
