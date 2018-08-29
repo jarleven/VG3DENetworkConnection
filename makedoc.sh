@@ -14,7 +14,7 @@ declare -a arr=( \
  "DE2101A-R3-P2" \
  "DE2116A-R1-P1" \
  "DE1124A-R0-P1" \
- "DE2129A-R1-P1" \
+ "DE1129A-R1-P1" \
  "Leftovers" \
 )
 
