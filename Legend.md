@@ -31,3 +31,6 @@ D	= SFJ bygg
 R1	= Rack 1					       
 P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ```
+
+![Alt text](https://github.com/RexTheCapt/VG3DENetworkConnection/blob/master/Drawings/EIDVGS-SectionPlan.svg)
+
