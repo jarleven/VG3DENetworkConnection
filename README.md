@@ -12,7 +12,7 @@
 * Dokumentere 2ELA
 * Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
 
-## Oppgåver 27.08.2018
+## Panel list
 
 * [Link to the mal file](Panels/MAL.md)
 
