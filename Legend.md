@@ -6,7 +6,7 @@
 1-129 = 2ELA 
 1-132 = 2AUA Klasserom 4
 1-130 = LAB
-Lager
+1-124 = Lager
 Garasje
 Loft
 Patch SFJ blokk 2 1.etg
