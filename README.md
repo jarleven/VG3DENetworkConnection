@@ -17,7 +17,7 @@
 |-------------|---------------------|-------|--------|
 |DE2101A–R1–P1| Augustin            |DONE   |        |
 |DE2101A–R1–P2| Aleksander/Erik     |DONE   |        |
-|DE2101A–R1–P3| Rex                 |New    |        |
+|DE2101A–R1–P3|                     |New    |        |
 |DE2101A–R3–P1| Rex                 |DONE   |        |
 |DE2101A–R3–P2|                     |New    |        |
 |DE2116A–R1–P1| Tommy               |DONE   |        |
