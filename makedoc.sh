@@ -41,7 +41,7 @@ do
 	echo ""
 	echo "Converting '$i' to PDF..."
 
-	cat header.include "./Panels/"$i".md" > ./Autogen/tmp.md
+	cat ./Pandoc/header.md "./Panels/"$i".md" > ./Autogen/tmp.md
 
 	## generate and scale
 	#pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
