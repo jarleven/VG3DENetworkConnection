@@ -13,6 +13,7 @@ declare -a arr=( \
  "DE2101A-R1-P3" \
  "DE2101A-R3-P1" \
  "DE2101A-R3-P2" \
+ "DE2115A-R1-P1" \
  "DE2116A-R1-P1" \
  "DE1124A-R0-P1" \
  "DE1129A-R1-P1" \
