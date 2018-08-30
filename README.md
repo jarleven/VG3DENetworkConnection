@@ -19,11 +19,24 @@ x-XXX = Garasje
 ## Panel list
 
 [comment]: # (Autotable start)
-
-|                  Patch                 |     Coordinator     |
-|----------------------------------------|---------------------|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |
-
+|Patch|Coordinator|
+|----|----|
+|MAL|<Insert name>|
+|Leftovers|Jarl Even|
+|DE2116A-R1-P1|Tommy|
+|DE2115A-R1-P1|Vegard og Martin|
+|DE2101A-R3-P2|Rex|
+|DE2101A-R3-P1||
+|DE2101A-R1-P3|Rex/Simon|
+|DE2101A-R1-P2|Aleksander/Eirik|
+|DE2101A-R1-P1|Augustin Winther|
+|DE1132A-R1-P2|Aleksander/Erik|
+|DE1132A-R1-P1|Tommy/Simon|
+|DE1130A-R1-P5|Augustin Winther|
+|DE1130A-R1-P2|Mardon|
+|DE1130A-R1-P1|Jarl Even|
+|DE1129A-R1-P1|Per Magnus|
+|DE1124A-R0-P1|Mardon|
 [comment]: # (Autotable stop)
 
 * [Link to the mal file](Panels/MAL.md)
