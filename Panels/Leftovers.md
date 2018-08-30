@@ -1,4 +1,5 @@
 ## SFJ Patch ut av "Elektroavdelinga"
+##### Author: Jarl Even
 
 |  #  |        Til       |Lengde|Demping|Kommentar|
 |----:|:-----------------|-----:|------:|:--------|

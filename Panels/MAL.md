@@ -1,5 +1,5 @@
 ## <Insert Name>
-##### <insert coordinator name>
+##### Author: <Insert name>
 
 |  #  |        Til       |Lengde|Demping|Kommentar|
 |----:|:-----------------|-----:|------:|:--------|
