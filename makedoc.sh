@@ -41,8 +41,11 @@ do
 	echo ""
 	echo "Converting '$i' to PDF..."
 
+	cat header.include "./Panels/"$i".md" > ./Autogen/tmp.md
+
 	## generate and scale
-	pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
+	#pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
+	pandoc ./Autogen/tmp.md -s -o "./Autogen/"$i".pdf"
 
 	#wget -O $i.pdf https://gitprint.com/RexTheCapt/VG3DENetworkConnection/blob/master/Panels/$i.md?download
 
