@@ -32,5 +32,5 @@ R1	= Rack 1
 P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ```
 
-<img src="./Drawings/EIDVGS-SectionPlan.svg" width="400">
+![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
 
