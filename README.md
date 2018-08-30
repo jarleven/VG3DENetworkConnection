@@ -18,6 +18,14 @@ x-XXX = Garasje
 
 ## Panel list
 
+[comment]: # (Autotable start)
+
+|                  Patch                 |     Coordinator     |
+|----------------------------------------|---------------------|
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |
+
+[comment]: # (Autotable stop)
+
 * [Link to the mal file](Panels/MAL.md)
 
 |                  Patch                 |     Coordinator     |Verified|Created|               TODO                 |
