@@ -23,7 +23,7 @@ x-XXX = Garasje
 |                  Patch                 |     Coordinator     |Verified|Created|TODO                                |
 |----------------------------------------|---------------------|--------|-------|------------------------------------|
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |        |DONE   |                                    |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |        |DONE   |Mål lengde og demping               |
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |No      |DONE   |Mål lengde og demping               |
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |        |DONE   |Mål lengde og demping               |
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |No      |DONE   |Mål lengde og demping               |
