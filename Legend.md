@@ -8,6 +8,7 @@
 1-132 = 2AUA Klasserom 4
 1-130 = LAB
 1-124 = Lager
+x-XXX = Garasje
 ```
 
 ## Blokk - Etasje- Rom - Dør
