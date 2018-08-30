@@ -2,6 +2,10 @@
 
 sed -i '/Autotable start/,/Autotable stop/{//!d}' README.md
 
+sed -i '/Autotable start/G' README.md
+
+
+
 for filename in ./Panels/*.md; do
 	echo $filename
 	b=$(basename $filename .md)
@@ -23,4 +27,5 @@ tabell=$(echo "|Patch|Coordinator|")
 
 sed -i "/Autotable start/a $tabell" README.md
 
+sed -i '/Autotable start/G' README.md
 

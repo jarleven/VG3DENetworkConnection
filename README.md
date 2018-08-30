@@ -19,6 +19,7 @@ x-XXX = Garasje
 ## Panel list
 
 [comment]: # (Autotable start)
+
 |Patch|Coordinator|
 |----|----|
 |MAL|<Insert name>|
@@ -37,6 +38,7 @@ x-XXX = Garasje
 |DE1130A-R1-P1|Jarl Even|
 |DE1129A-R1-P1|Per Magnus|
 |DE1124A-R0-P1|Mardon|
+
 [comment]: # (Autotable stop)
 
 * [Link to the mal file](Panels/MAL.md)
