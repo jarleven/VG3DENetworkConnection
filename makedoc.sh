@@ -19,10 +19,18 @@ declare -a arr=( \
  "Leftovers" \
 )
 
+## Passes parameter as filename (eg. "bash makedoc.sh FILENAME")
+FILE=$1
+
+if [ -z "$FILE"  ]
+then
+	FILE="tmp"
+fi
+
 ## variable for the list of filenames to put into one pdf
 pdflist=''
 
-#Creates a direcotry for all autogens if it doesent already exist
+## Creates a direcotry for all autogens if it doesent already exist
 mkdir -p Autogen
 
 ## now loop through the above array
@@ -61,7 +69,7 @@ echo ""
 echo ""
 echo "Make one document"
 ## concatenate all the pdf files to one
-pdftk $pdflist cat output "./Autogen/"Dokumentasjon-autogen.pdf
+pdftk $pdflist cat output $FILE".pdf"
 
 # git log -1 --format="%ad" -- Panels/DE1130A-R1-P2.md
 # Mon Aug 27 15:09:08 2018 +0200
