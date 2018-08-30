@@ -39,17 +39,18 @@ for i in "${arr[@]}"
 do
 	echo ""
 	echo ""
-	echo "$i"
+	echo "Converting '$i' to PDF..."
 
 	## generate and scale
 	pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
-	pdfjam --outfile  "./Autogen/"$i".pdf" --paper a4paper --scale 1.6 "./Autogen/"$i".pdf"
+	pdfjam --quiet --outfile  "./Autogen/"$i".pdf" --paper a4paper --scale 1.6 "./Autogen/"$i".pdf"
 
 	#wget -O $i.pdf https://gitprint.com/RexTheCapt/VG3DENetworkConnection/blob/master/Panels/$i.md?download
 
 	## append every panel to the list
 	pdflist=$pdflist"./Autogen/"$i".pdf "
 	#echo $pdflist
+	echo done
 done
 
 #pandoc DE1130A-R1-P1.md -s -o DE1130A-R1-P1.pdf
@@ -59,18 +60,20 @@ done
 ## generate and scale
 echo ""
 echo ""
-echo "Legend"
+echo "Converting 'Legend' to PDF..."
 pandoc Legend.md -s -o "./Autogen/"Legend.pdf
-pdfjam --outfile  "./Autogen/"Legend.pdf --paper a4paper --scale 1.6 "./Autogen/"Legend.pdf
+pdfjam --quiet --outfile  "./Autogen/"Legend.pdf --paper a4paper --scale 1.6 "./Autogen/"Legend.pdf
+echo done
 
 ## add the legend to the list
 pdflist="./Autogen/Legend.pdf "$pdflist
 
 echo ""
 echo ""
-echo "Make one document"
+echo "Merging files..."
 ## concatenate all the pdf files to one
 pdftk $pdflist cat output $FILE".pdf"
+echo done
 
 # git log -1 --format="%ad" -- Panels/DE1130A-R1-P2.md
 # Mon Aug 27 15:09:08 2018 +0200
