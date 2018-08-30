@@ -20,9 +20,9 @@ x-XXX = Garasje
 
 * [Link to the mal file](Panels/MAL.md)
 
-|                  Patch                 |     Coordinator     |Verified|Created|TODO                                |
+|                  Patch                 |     Coordinator     |Verified|Created|               TODO                 |
 |----------------------------------------|---------------------|--------|-------|------------------------------------|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |        |DONE   |                                    |
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |        |DONE   |Kartlegge, måle lengde og demping   |
 |[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |        |DONE   |Mål lengde og demping               |
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |No      |DONE   |Mål lengde og demping               |
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |        |DONE   |Mål lengde og demping               |
@@ -30,7 +30,7 @@ x-XXX = Garasje
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)| Tommy               |        |DONE   |                                    |
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |        |DONE   |                                    |
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)| Augustin            |        |DONE   |                                    |
+|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)| Augustin            |        |DONE   |Kartlegge, måle lengde og demping   |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |DONE   |                                    |
