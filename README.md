@@ -41,6 +41,9 @@ x-XXX = Garasje
 
 [comment]: # (Autotable stop)
 
+<img src="./Drawings/EIDVGS-SectionPlan.svg" width="400">
+
+
 * [Link to the mal file](Panels/MAL.md)
 
 |                  Patch                 |     Coordinator     |Verified|Created|               TODO                 |
