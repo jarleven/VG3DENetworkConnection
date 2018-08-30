@@ -43,7 +43,6 @@ do
 
 	## generate and scale
 	pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
-	pdfjam --quiet --outfile  "./Autogen/"$i".pdf" --paper a4paper --scale 1.6 "./Autogen/"$i".pdf"
 
 	#wget -O $i.pdf https://gitprint.com/RexTheCapt/VG3DENetworkConnection/blob/master/Panels/$i.md?download
 
@@ -62,7 +61,6 @@ echo ""
 echo ""
 echo "Converting 'Legend' to PDF..."
 pandoc Legend.md -s -o "./Autogen/"Legend.pdf
-pdfjam --quiet --outfile  "./Autogen/"Legend.pdf --paper a4paper --scale 1.6 "./Autogen/"Legend.pdf
 echo done
 
 ## add the legend to the list
