@@ -21,6 +21,7 @@ wget -O DE1130A–R1–P1.pdf https://gitprint.com/jarleven/VG3DENetworkConnecti
 sudo apt install texlive-full
 sudo apt install pandoc
 sudo apt install pdftk
+sudo apt install inkscape
 
 pandoc DE1130A–R1–P1.md -s -o DE1130A–R1–P1.pdf
 
