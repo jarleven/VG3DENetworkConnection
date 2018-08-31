@@ -20,24 +20,24 @@ x-XXX = Garasje
 
 [comment]: # (Autotable start)
 
-|Patch|Coordinator|
-|----|----|
-|MAL|<Insert name>|
-|Leftovers|Jarl Even|
-|DE2116A-R1-P1|Tommy|
-|DE2115A-R1-P1|Vegard og Martin|
-|DE2101A-R3-P2|Rex|
-|DE2101A-R3-P1||
-|DE2101A-R1-P3|Rex/Simon|
-|DE2101A-R1-P2|Aleksander/Erik|
-|DE2101A-R1-P1|Augustin Winther|
-|DE1132A-R1-P2|Aleksander/Erik|
-|DE1132A-R1-P1|Tommy/Simon|
-|DE1130A-R1-P5|Augustin Winther|
-|DE1130A-R1-P2|Mardon|
-|DE1130A-R1-P1|Jarl Even|
-|DE1129A-R1-P1|Per Magnus|
-|DE1124A-R0-P1|Mardon|
+|Patch|Coordinator|TODO|Status|
+|----|----|----|----|
+|[MAL](Panels/MAL.md)|<Insert name>|||
+|[Leftovers](Panels/Leftovers.md)|Jarl Even|||
+|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|||
+|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|||
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
+|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle lengde og demping.|Vi har sjekka alle termineringar. Dei er merkar riktig.|
+|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Dokumentere 3-9 og 11-13. Måle lengde og demping.|3-9 og 11-13 er ikkje dokumentert. (30.08.2018)|
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|||
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Sjekke Patch #1..25. Måle lengde og demping.|Vi har sjekka termineringa på #21,22,23,24 30.08.2018. Dei er merkar riktig.|
+|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Finne garasje rom nr.|kun 1-6 er terminerte og går til garasjen. 7-12 har pigtail. (30.08.2018)|
+|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even||Tilstand: Patch #19..24 merking er riktig. (30.08.2018)|
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|||
+|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle lengde og demping.|Vi har sjekka alle termineringar. Dei er merkar riktig.|
 
 [comment]: # (Autotable stop)
 
