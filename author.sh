@@ -9,19 +9,22 @@ sed -i '/Autotable start/G' README.md
 
 # Loop all files, extract filename and author put in after matching pattern
 for filename in ./Panels/*.md; do
-	echo $filename
-	panel=$(basename $filename .md)
-	#echo $b
-	#cat $filename | grep "Author"
-	author=$(cat $filename | grep "Author" | sed -e 's/##### Author: //g')
-	todo=$(cat $filename | grep "TODO" | sed -e 's/##### TODO: //g')
-	status=$(cat $filename | grep "Tilstand" | sed -e 's/##### Tilstand: //g')
-	
-	# Build the table row
-	tabell=$(echo "|""["$panel"]""(Panels/"$panel".md)""|"$author"|"$todo"|"$status"|")
-	
-	# Add the row after the matching table
-	sed -i "/Autotable start/a $tabell" README.md
+	if [ $filename != "./Panels/MAL.md" ]
+	then
+		echo $filename
+		panel=$(basename $filename .md)
+		#echo $b
+		#cat $filename | grep "Author"
+		author=$(cat $filename | grep "Author" | sed -e 's/##### Author: //g')
+		todo=$(cat $filename | grep "TODO" | sed -e 's/##### TODO: //g')
+		status=$(cat $filename | grep "Tilstand" | sed -e 's/##### Tilstand: //g')
+		
+		# Build the table row
+		tabell=$(echo "|""["$panel"]""(Panels/"$panel".md)""|"$author"|"$todo"|"$status"|")
+		
+		# Add the row after the matching table
+		sed -i "/Autotable start/a $tabell" README.md
+	fi
 done
 
 # Add the table header
