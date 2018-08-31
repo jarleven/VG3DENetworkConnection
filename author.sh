@@ -13,8 +13,7 @@ for filename in ./Panels/*.md; do
 	then
 		echo $filename
 		panel=$(basename $filename .md)
-		#echo $b
-		#cat $filename | grep "Author"
+
 		author=$(cat $filename | grep "Author" | sed -e 's/##### Author: //g')
 		todo=$(cat $filename | grep "TODO" | sed -e 's/##### TODO: //g')
 		status=$(cat $filename | grep "Tilstand" | sed -e 's/##### Tilstand: //g')
