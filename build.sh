@@ -6,7 +6,7 @@ git pull
 git add README.md
 git add NetworkDocumentation.pdf
 
-commit -m "Autodoc"
+git commit -m "Autodoc"
 
 git push
 
