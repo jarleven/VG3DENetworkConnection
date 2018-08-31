@@ -29,7 +29,7 @@ x-XXX = Garasje
 |DE2101A-R3-P2|Rex|
 |DE2101A-R3-P1||
 |DE2101A-R1-P3|Rex/Simon|
-|DE2101A-R1-P2|Aleksander/Eirik|
+|DE2101A-R1-P2|Aleksander/Erik|
 |DE2101A-R1-P1|Augustin Winther|
 |DE1132A-R1-P2|Aleksander/Erik|
 |DE1132A-R1-P1|Tommy/Simon|
