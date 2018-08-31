@@ -27,7 +27,7 @@ x-XXX = Garasje
 |[Garasje](Panels/Garasje.md)|Jarl Even|||
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|||
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|||
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|##### TODO:|Verifisert 31.08.2018.|
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle lengde og demping.|Vi har sjekka alle termineringar. Dei er merkar riktig.|
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
 |[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
