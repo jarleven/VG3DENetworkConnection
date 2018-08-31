@@ -44,7 +44,7 @@ done
 echo ""
 echo ""
 echo "Converting 'README' to PDF..."
-pandoc README.md -s -o "./Autogen/README.pdf"
+pandoc ./README.md -s -o "./Autogen/README.pdf"
 echo "done"
 
 ## add the legend to the list
