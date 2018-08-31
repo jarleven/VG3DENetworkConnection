@@ -47,7 +47,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |----|----|----|----|
 |[Loft](Panels/Loft.md)|Jarl Even|N/A|New|
 |[Garasje](Panels/Garasje.md)|Jarl Even|N/A|New|
-|[External](Panels/External.md)|Jarl Even|##### TODO:|WIP|
+|[External](Panels/External.md)|Jarl Even|Doc link loft|WIP|
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|Verifisere, Måle m og dB.|New|
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle m og dB.|New|
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|OK 31.08.2018|
