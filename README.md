@@ -15,7 +15,7 @@
 x-XXX = Loft
 x-XXX = Garasje
 
-``
+```
 
 ## Blokk - Etasje- Rom - Dør
 ```
