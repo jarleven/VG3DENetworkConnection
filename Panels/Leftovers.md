@@ -7,6 +7,9 @@
 | DE2101A-R1-P1 #4 | DE2101A.204 <-> D2101.3 | Swicth nede i gangen. WAN/Internet   |
 |  ????            |                         | Link til loft                        |
 
+##### Tilstand: WIP
+##### TODO:
+
 #### 2 patchar i taket over projector 3DEA - Går til inntak rom nede ved toalett elektrofløy
 #### 1 patch bak med rack 3 gr til loft antenne for Lora og Skipenes
 
