@@ -1,5 +1,5 @@
-## <Insert Name>
-##### Author: <Insert name>
+## Some panel
+##### Author: John Doe
 
 |  #  |        Til       |Lengde|Demping|Kommentar|
 |----:|:-----------------|-----:|------:|:--------|
@@ -28,5 +28,5 @@
 |   23|                  |      |       |         |
 |   24|                  |      |       |         |
 
-##### Tilstand:
-##### TODO:
+##### Tilstand: New
+##### TODO: N/A
