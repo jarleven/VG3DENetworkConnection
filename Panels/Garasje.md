@@ -1,5 +1,5 @@
-## <Insert Name>
-##### Author: <Insert name>
+## Garasje
+##### Author: Jarl Even
 
 |  #  |        Til       |Lengde|Demping|Kommentar|
 |----:|:-----------------|-----:|------:|:--------|
@@ -27,6 +27,3 @@
 |   22|                  |      |       |         |
 |   23|                  |      |       |         |
 |   24|                  |      |       |         |
-
-##### Tilstand:
-##### TODO:
