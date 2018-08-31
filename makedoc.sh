@@ -43,17 +43,18 @@ done
 ## generate and scale
 echo ""
 echo ""
-echo "Converting 'Legend' to PDF..."
-pandoc Legend.md -s -o "./Autogen/"Legend.pdf
+echo "Converting 'README' to PDF..."
+pandoc README.md -s -o "./Autogen/README.pdf"
 echo "done"
 
 ## add the legend to the list
-pdflist="./Autogen/Legend.pdf "$pdflist
+pdflist="./Autogen/README.pdf "$pdflist
 
 echo ""
 echo ""
 echo "Merging files..."
 ## concatenate all the pdf files to one
+echo $pdflist
 pdftk $pdflist cat output $FILE".pdf"
 echo "done"
 
