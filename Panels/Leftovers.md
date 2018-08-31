@@ -3,30 +3,9 @@
 
 |  #  |        Til       |Lengde|Demping|Kommentar|
 |----:|:-----------------|-----:|------:|:--------|
-|    1|                  |      |       |         |
-|    2|                  |      |       |         |
-|    3|                  |      |       |         |
-|    4|                  |      |       |         |
-|    5|                  |      |       |         |
-|    6|                  |      |       |         |
-|    7|                  |      |       |         |
-|    8|                  |      |       |         |
-|    9|                  |      |       |         |
-|   10|                  |      |       |         |
-|   11|                  |      |       |         |
-|   12|                  |      |       |         |
-|   13|                  |      |       |         |
-|   14|                  |      |       |         |
-|   15|                  |      |       |         |
-|   16|                  |      |       |         |
-|   17|                  |      |       |         |
-|   18|                  |      |       |         |
-|   19|                  |      |       |         |
-|   20|                  |      |       |         |
-|   21|                  |      |       |         |
-|   22|                  |      |       |         |
-|   23|                  |      |       |         |
-|   24|                  |      |       |         |
+|     |DE2101A-R1-P1 #3 <-> DE2101A.203  <-> D2101.2 |         | Swicth nede i gangen. RS-232 consol     |
+|     |DE2101A-R1-P1 #4 <-> DE2101A.204  <-> D2101.3 |         | Swicth nede i gangen. WAN/Internet   |
+
 
 #### 2 patchar i taket over projector 3DEA - Går til inntak rom nede ved toalett elektrofløy
 #### 1 patch bak med rack 3 gr til loft antenne for Lora og Skipenes
