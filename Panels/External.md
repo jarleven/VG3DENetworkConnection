@@ -1,11 +1,11 @@
 ## SFJ Patch ut av "Elektroavdelinga"
 ##### Author: Jarl Even
 
-|    Patchepanel   |      Krysskopling       |             Kommentar                |
-|------------------|-------------------------|--------------------------------------|
-| DE2101A-R1-P1 #3 | DE2101A.203 <-> D2101.2 | Swicth nede i gangen. RS-232 consol  |
-| DE2101A-R1-P1 #4 | DE2101A.204 <-> D2101.3 | Swicth nede i gangen. WAN/Internet   |
-|  ????            |                         | Link til loft                        |
+|    Patchepanel   |      Krysskopling       |  Kommentar    |
+|------------------|-------------------------|---------------|
+| DE2101A-R1-P1 #3 | DE2101A.203 <-> D2101.2 | RS-232 consol |
+| DE2101A-R1-P1 #4 | DE2101A.204 <-> D2101.3 | WAN/Internet  |
+|  ????            |                         | Link til loft |
 
 ##### Tilstand: WIP
 ##### TODO: Doc link loft
