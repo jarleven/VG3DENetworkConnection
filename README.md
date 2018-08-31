@@ -50,10 +50,10 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[Garasje](Panels/Garasje.md)|Jarl Even|N/A|New|
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|Verifisere, Måle m og dB.|New|
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle m og dB.|New|
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|Verifisert 31.08.2018.|
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|OK 31.08.2018|
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle m og dB.|Kopling OK|
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|N/A|OK 31.08.2018|
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB|Verifisert|
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB, terminere|Merking OK|
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.|Verify 5-9 + 11-13|
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|Verifiser, Måle m og dB.|NEW|
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20. Måle m og dB.|Merking OK #21,22,23,24|
