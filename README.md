@@ -41,31 +41,9 @@ x-XXX = Garasje
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
 
 [comment]: # (Autotable stop)
-
-<img src="./Drawings/EIDVGS-SectionPlan.svg" width="400">
-
-
 * [Link to the mal file](Panels/MAL.md)
 
-|                  Patch                 |     Coordinator     |Verified|Created|               TODO                 |
-|----------------------------------------|---------------------|--------|-------|------------------------------------|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)| Augustin            |        |DONE   |Kartlegge, måle lengde og demping   |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)| Aleksander/Erik     |        |DONE   |Mål lengde og demping               |
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)| Rex/Simon           |Rex     |DONE   |Mål lengde og demping               |
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)| Rex                 |        |DONE   |Mål lengde og demping               |
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)| Rex/Simon           |Rex     |DONE   |Mål lengde og demping               |
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)| Tommy               |        |DONE   |                                    |
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)| Jarl Even           |        |DONE   |                                    |
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)| Mardon              |        |DONE   |                                    |
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)| Augustin            |        |DONE   |Kartlegge, måle lengde og demping   |
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)| Tommy/Simon         |        |DONE   |                                    |
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)| Aleksander/Erik     |        |DONE   |                                    |
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|                     |        |DONE   |                                    |
-|[DE1124A-R1-P1](Panels/DE1124A-R0-P1.md)|                     |        |DONE   |                                    |
-|Garasje fiber                           |                     |        |NO     |                                    |
-|[External](Panels/Leftovers.md)         | Jarl Even           |        |DONE   |                                    |
-|Loft                                    | Jarl Even           |        |NO     |                                    |
-
+<img src="./Drawings/EIDVGS-SectionPlan.svg" width="400">
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
