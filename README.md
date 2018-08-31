@@ -22,23 +22,23 @@ x-XXX = Garasje
 
 |Patch|Coordinator|TODO|Status|
 |----|----|----|----|
-|[Loft](Panels/Loft.md)|Jarl Even|||
-|[Leftovers](Panels/Leftovers.md)|Jarl Even|||
-|[Garasje](Panels/Garasje.md)|Jarl Even|||
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|||
-|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|||
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|##### TODO:|Verifisert 31.08.2018.|
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle lengde og demping.|Vi har sjekka alle termineringar. Dei er merkar riktig.|
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
+|[Loft](Panels/Loft.md)|Jarl Even|N/A|New|
+|[Leftovers](Panels/Leftovers.md)|Jarl Even|##### TODO:|WIP|
+|[Garasje](Panels/Garasje.md)|Jarl Even|N/A|New|
+|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|Verifisere, Måle m og dB.|New|
+|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle m og dB.|New|
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|Verifisert 31.08.2018.|
+|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle m og dB.|Kopling OK|
+|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|N/A|OK 31.08.2018|
 |[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Dokumentere 5-9 og 11-13. Måle lengde og demping.|5-9 og 11-13 er ikkje dokumentert. (31.08.2018)|
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|||
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Sjekke Patch #1..25. Måle lengde og demping.|Vi har sjekka termineringa på #21,22,23,24 30.08.2018. Dei er merkar riktig.|
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.|Verify 5-9 + 11-13|
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|Verifiser, Måle m og dB.|NEW|
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20. Måle m og dB.|Merking OK #21,22,23,24|
 |[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Finne garasje rom nr.|kun 1-6 er terminerte og går til garasjen. 7-12 har pigtail. (30.08.2018)|
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even||Tilstand: Patch #19..24 merking er riktig. (30.08.2018)|
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|||
-|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle lengde og demping.|Vi har sjekka alle termineringar. Dei er merkar riktig.|
+|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle lengde og demping.|Merking OK.|
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even|Måle m og dB.|Verifiser #1-18|
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|N/A|New|
+|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
 
 [comment]: # (Autotable stop)
 
