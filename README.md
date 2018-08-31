@@ -3,6 +3,7 @@
 <p>In this repository me and my class is creating an network map for our classes</p>
 <p>Mostly it will cover the patch panels and network terminations</p>
 
+## Romkodar
 ```
 1-124 = Lager
 1-129 = 2ELA Klasserom ??
@@ -14,6 +15,28 @@
 x-XXX = Loft
 x-XXX = Garasje
 
+``
+
+## Blokk - Etasje- Rom - Dør
+```
+ 
+  |-------> BLOKK
+  |
+  | |-------> ETASJE
+  | |  
+  | | |-------> ROM
+  | | |
+  | | ||--------> DØR
+  X-YXXA
+  
+  
+```
+
+```
+DE	= Data og Elektronikk undervisning
+D	= SFJ bygg
+R1	= Rack 1					       
+P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ```
 
 ## Panel list
@@ -41,9 +64,6 @@ x-XXX = Garasje
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
 
 [comment]: # (Autotable stop)
-* [Link to the mal file](Panels/MAL.md)
-
-<img src="./Drawings/EIDVGS-SectionPlan.svg" width="400">
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
@@ -51,6 +71,9 @@ x-XXX = Garasje
 |DE2101A      |Augustin             |       |             |
 |DE2115A      |Augustin             |       |             |
 |DE2116A      |Augustin             |       |             |
+
+
+![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
 
 
 ## Ei liste med oppgåver 
