@@ -22,7 +22,9 @@ x-XXX = Garasje
 
 |Patch|Coordinator|TODO|Status|
 |----|----|----|----|
+|[Loft](Panels/Loft.md)|Jarl Even|||
 |[Leftovers](Panels/Leftovers.md)|Jarl Even|||
+|[Garasje](Panels/Garasje.md)|Jarl Even|||
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|||
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|||
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|Måle lengde og demping.|Vi har sjekka alle termineringar 27.08.2018. Dei er merkar riktig.|
