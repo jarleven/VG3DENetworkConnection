@@ -5,7 +5,7 @@ FILE=$1
 
 if [ -z "$FILE"  ]
 then
-	FILE="tmp"
+	FILE="tmp" ##If no name is specified, set default name as tmp.pdf (ignored by git)
 fi
 
 ## variable for the list of filenames to put into one pdf
@@ -33,7 +33,7 @@ do
 	## append every panel to the list
 	pdflist=$pdflist"./Autogen/"$panel".pdf "
 	#echo $pdflist
-	echo done
+	echo "done"
 done
 
 #pandoc DE1130A-R1-P1.md -s -o DE1130A-R1-P1.pdf
@@ -45,7 +45,7 @@ echo ""
 echo ""
 echo "Converting 'Legend' to PDF..."
 pandoc Legend.md -s -o "./Autogen/"Legend.pdf
-echo done
+echo "done"
 
 ## add the legend to the list
 pdflist="./Autogen/Legend.pdf "$pdflist
@@ -55,7 +55,7 @@ echo ""
 echo "Merging files..."
 ## concatenate all the pdf files to one
 pdftk $pdflist cat output $FILE".pdf"
-echo done
+echo "done"
 
 # git log -1 --format="%ad" -- Panels/DE1130A-R1-P2.md
 # Mon Aug 27 15:09:08 2018 +0200
