@@ -30,11 +30,11 @@ x-XXX = Garasje
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|Verifisert 31.08.2018.|
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle m og dB.|Kopling OK|
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|N/A|OK 31.08.2018|
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle lengde og demping.|Vi har sjekka alle termineringar 30.08.2018. Dei er merkar riktig.|
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB|Verifisert|
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.|Verify 5-9 + 11-13|
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|Verifiser, Måle m og dB.|NEW|
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20. Måle m og dB.|Merking OK #21,22,23,24|
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Finne garasje rom nr.|kun 1-6 er terminerte og går til garasjen. 7-12 har pigtail. (30.08.2018)|
+|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Rom# garasje.|WIP|
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle lengde og demping.|Merking OK.|
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even|Måle m og dB.|Verifiser #1-18|
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|N/A|New|
