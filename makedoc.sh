@@ -1,25 +1,5 @@
 #!/bin/bash
 
-## declare an array of patchpanel files
-declare -a arr=( \
-
- "DE1130A-R1-P1" \
- "DE1130A-R1-P2" \
- "DE1130A-R1-P5" \
- "DE1132A-R1-P1" \
- "DE1132A-R1-P2" \
- "DE2101A-R1-P1" \
- "DE2101A-R1-P2" \
- "DE2101A-R1-P3" \
- "DE2101A-R3-P1" \
- "DE2101A-R3-P2" \
- "DE2115A-R1-P1" \
- "DE2116A-R1-P1" \
- "DE1124A-R0-P1" \
- "DE1129A-R1-P1" \
- "Leftovers" \
-)
-
 ## Passes parameter as filename (eg. "bash makedoc.sh FILENAME")
 FILE=$1
 
@@ -34,23 +14,24 @@ pdflist=''
 ## Creates a direcotry for all autogens if it doesent already exist
 mkdir -p Autogen
 
-## now loop through the above array
-for i in "${arr[@]}"
+## Loops through files in panels
+for filename in ./Panels/*.md
 do
+	panel=$(basename $filename .md)
 	echo ""
 	echo ""
-	echo "Converting '$i' to PDF..."
+	echo "Converting '$filename' to PDF..."
 
-	cat ./Pandoc/header.md "./Panels/"$i".md" > ./Autogen/tmp.md
+	cat ./Pandoc/header.md "./Panels/"$panel".md" > ./Autogen/tmp.md
 
 	## generate and scale
 	#pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
-	pandoc ./Autogen/tmp.md -s -o "./Autogen/"$i".pdf"
+	pandoc ./Autogen/tmp.md -s -o "./Autogen/"$panel".pdf"
 
 	#wget -O $i.pdf https://gitprint.com/RexTheCapt/VG3DENetworkConnection/blob/master/Panels/$i.md?download
 
 	## append every panel to the list
-	pdflist=$pdflist"./Autogen/"$i".pdf "
+	pdflist=$pdflist"./Autogen/"$panel".pdf "
 	#echo $pdflist
 	echo done
 done
