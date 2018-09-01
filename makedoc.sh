@@ -23,6 +23,7 @@ do
 	echo "Converting '$filename' to PDF..."
 
 	cat ./Pandoc/header.md "./Panels/"$panel".md" > ./Autogen/tmp.md
+	sed -i -e 's/<br\/>/\\\r/' ./Autogen/tmp.md
 
 	## generate and scale
 	#pandoc "./Panels/"$i".md" -s -o "./Autogen/"$i".pdf"
