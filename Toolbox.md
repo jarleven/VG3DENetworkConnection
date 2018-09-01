@@ -34,4 +34,6 @@ pandoc --from=markdown --output=my.pdf DE1130A-R1-P1.md  -V geometry:a4paper
 https://stackoverflow.com/questions/23811002/from-markdown-to-pdf-how-to-change-the-font-size-with-pandoc
 https://www.reddit.com/r/emacs/comments/4cbpph/markdown_pandoc_mode_pdf_export_looks_ugly/
 
+Possible sizes are 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt.
+
 ```
