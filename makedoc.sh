@@ -60,3 +60,12 @@ echo "done"
 
 # git log -1 --format="%ad" -- Panels/DE1130A-R1-P2.md
 # Mon Aug 27 15:09:08 2018 +0200
+
+# Replace <br\> with \ and a new line
+# sed -i -e 's/<br\/>/\\\r/' README.md
+# pandoc -f markdown -f markdown  -s -o README.pdf ./README.md
+#
+# https://groups.google.com/forum/#!topic/pandoc-discuss/dsLnlTBbAJE
+# https://gist.github.com/shaunlebron/746476e6e7a4d698b373
+
+
