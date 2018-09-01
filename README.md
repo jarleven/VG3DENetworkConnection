@@ -40,7 +40,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ```
 
 ## Panel list
-
+[comment]: # (Autotable start)
 
 |Patch|Coordinator|TODO|Status|
 |----|----|----|----|
@@ -62,6 +62,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|N/A|New|
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
 
+[comment]: # (Autotable stop)
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
