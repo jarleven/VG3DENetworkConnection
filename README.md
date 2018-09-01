@@ -41,7 +41,6 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 
 ## Panel list
 
-[comment]: # (Autotable start)
 
 |Patch|Coordinator|TODO|Status|
 |----|----|----|----|
@@ -56,14 +55,13 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB, terminere|Merking OK|
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.|Verify 5-9 + 11-13|
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|Verifiser, Måle m og dB.|NEW|
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20<br/>Måle m og dB.|Merking OK #21,22,23,24|
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20\Måle m og dB.|Merking OK #21,22,23,24|
 |[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Rom# garasje.|WIP|
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle lengde og demping.|Merking OK.|
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even|Måle m og dB.|Verifiser #1-18|
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|N/A|New|
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
 
-[comment]: # (Autotable stop)
 
 ## Drawings 
 |    Room     |     Coordinator     | Paper | Electronic  |
