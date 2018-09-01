@@ -42,25 +42,25 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ## Panel list
 [comment]: # (Autotable start)
 
-|Patch|Coordinator|TODO|Status|
-|----|----|----|----|
-|[Loft](Panels/Loft.md)|Jarl Even|N/A|New|
-|[Garasje](Panels/Garasje.md)|Jarl Even|N/A|New|
-|[External](Panels/External.md)|Jarl Even|Doc link loft|WIP|
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy|Verifiser<br/>Måle m og dB|New|
-|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle m og dB.|New|
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex|N/A|OK 31.08.2018|
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)||Måle m og dB.|Kopling OK|
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon|N/A|OK 31.08.2018|
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB<br/>terminere|Merking OK|
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.|Verify 5-9 + 11-13|
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik|Verifiser<br/>Måle m og dB.|NEW|
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon|Test #1..20<br/>Måle m og dB|Merking OK for:<br/>#21,22,23,24|
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Rom# garasje.|WIP|
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon|Måle m og dB|Merking OK|
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even|Måle m og dB.|Verifiser #1-18|
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus|N/A|New|
-|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon|Måle m og dB.|OK|
+|                  Panel                 |   Coordinator  |            TODO            |             Status             |
+|----------------------------------------|----------------|----------------------------|--------------------------------|
+|[Loft](Panels/Loft.md)                  |Jarl Even       |N/A                         |New                             |
+|[Garasje](Panels/Garasje.md)            |Jarl Even       |N/A                         |New                             |
+|[External](Panels/External.md)          |Jarl Even       |Doc link loft               |WIP                             |
+|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy           |Verifiser<br/>Måle m og dB  |New                             |
+|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle m og dB.               |New                             |
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex             |N/A                         |OK 31.08.2018                   |
+|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|                |Måle m og dB.               |Kopling OK                      |
+|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon       |N/A                         |OK 31.08.2018                   |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle m og dB<br/>terminere  |Merking OK                      |
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin Winther|Måle m og dB.               |Verify 5-9 + 11-13              |
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik |Verifiser<br/>Måle m og dB. |NEW                             |
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon     |Test #1..20<br/>Måle m og dB|Merking OK for:<br/>#21,22,23,24|
+|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin Winther|Rom# garasje.               |WIP                             |
+|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon          |Måle m og dB                |Merking OK                      |
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even       |Måle m og dB.               |Verifiser #1-18                 |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus      |N/A                         |New                             |
+|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon          |Måle m og dB.               |OK                              |
 
 [comment]: # (Autotable stop)
 
