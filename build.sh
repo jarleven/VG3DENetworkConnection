@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm ./Autogen/*
+
 git pull
 ./author.sh
 ./makedoc.sh NetworkDocumentation

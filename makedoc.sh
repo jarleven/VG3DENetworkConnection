@@ -44,7 +44,11 @@ done
 echo ""
 echo ""
 echo "Converting 'README' to PDF..."
-pandoc ./README.md -s -o "./Autogen/README.pdf"
+cp README.md ./Autogen/README.md
+sed -i '/\[comment\]/d' ./Autogen/README.md
+sed -i -e 's/<br\/>/\\\r/' ./Autogen/README.md
+cat ./Pandoc/header-readme.md ./Autogen/README.md > ./Autogen/tmp.md
+pandoc -f markdown  -s -o "./Autogen/README.pdf" ./Autogen/tmp.md
 echo "done"
 
 ## add the legend to the list
