@@ -65,11 +65,11 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 [comment]: # (Autotable stop)
 
 ## Drawings 
-|    Room     |     Coordinator     | Paper | Electronic  |
-|-------------|---------------------|-------|-------------|
-|DE2101A      |Augustin             |       |             |
-|DE2115A      |Augustin             |       |             |
-|DE2116A      |Augustin             |       |             |
+|                  Room                   |     Coordinator     | Paper | Electronic  |
+|-----------------------------------------|---------------------|-------|-------------|
+|[DE2101A](./Drawings/2101A-FloorPlan.svg)|Augustin             |       |             |
+|[DE2115A](./Drawings/2115A-FloorPlan.svg)|Augustin             |       |             |
+|[DE2116A](./Drawings/2116A-FloorPlan.svg)|Augustin             |       |             |
 
 
 ![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
