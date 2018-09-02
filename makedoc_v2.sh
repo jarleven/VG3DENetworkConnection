@@ -17,7 +17,7 @@ rm -rf ./Autogen/*
 
 cp ./Panels/*.md ./Autogen/
 
-rm ./Autogen/MAL.md
+rm ./Autogen/MAL.md ./Autogen/Garasje.md ./Autogen/Loft.md
 
 for filename in ./Autogen/*.md
 do
