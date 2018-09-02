@@ -8,8 +8,9 @@
 ##  [2101A.] 
 
 ## A full stop (.) we need to escape like this (\.) or sed will interpret it as a command.
+## [0-9] regular expression. [0-9][0-9][0-9][0-9] will match all numbers 0000 to 9999
 
-##  Following Git command comes handy when playing with this.
+## Following Git command comes handy when playing with this.
 ## Just remember to keep what you have in this file.
 ## git reset --hard HEAD
 
