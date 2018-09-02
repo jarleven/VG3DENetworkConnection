@@ -37,3 +37,10 @@ https://www.reddit.com/r/emacs/comments/4cbpph/markdown_pandoc_mode_pdf_export_l
 Possible sizes are 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt.
 
 ```
+
+```
+Brother P-Touch labelprinter
+
+http://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=3600eus&pfs=1&faqid=faqp00001040_003
+
+To print labels for the patch panels and patches 
