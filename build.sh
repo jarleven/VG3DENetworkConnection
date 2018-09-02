@@ -4,7 +4,7 @@ rm ./Autogen/*
 
 git pull
 ./author.sh
-./makedoc.sh NetworkDocumentation
+./makedoc_v2.sh NetworkDocumentation
 
 git add README.md
 git add NetworkDocumentation.pdf
