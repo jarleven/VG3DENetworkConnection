@@ -47,7 +47,7 @@ echo ""
 echo "Converting 'README' to PDF..."
 cp README.md ./Autogen/README.md
 sed -i '/\[comment\]/d' ./Autogen/README.md
-sed -i -e 's/<br\/>/\\\r/' ./Autogen/README.md
+sed -i -e 's/<br\/>/\\\r/g' ./Autogen/README.md
 cat ./Pandoc/header-readme.md ./Autogen/README.md > ./Autogen/tmp.md
 pandoc -f markdown  -s -o "./Autogen/README.pdf" ./Autogen/tmp.md
 echo "done"
