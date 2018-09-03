@@ -42,25 +42,25 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ## Panel list
 [comment]: # (Autotable start)
 
-|                  Panel                 |   Coordinator  |                  TODO                 |             Status             |
-|----------------------------------------|----------------|---------------------------------------|--------------------------------|
-|[Loft](Panels/Loft.md)                  |Jarl Even       |N/A                                    |New                             |
-|[Garasje](Panels/Garasje.md)            |Jarl Even       |N/A                                    |New                             |
-|[External](Panels/External.md)          |Jarl Even       |Dokumenter link til loft               |WIP                             |
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy           |Verifiser<br/>Måle lengde og dempning  |New                             |
-|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin|Måle lengde og dempning                |New                             |
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex             |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|Rex             |Måle lengde og dempning                |Kopling OK                      |
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon       |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik|Måle lengde og dempning<br/>terminere  |Merking OK                      |
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin        |Måle lengde og dempning                |Verify 5-9 + 11-13              |
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik |Verifiser<br/>Måle lengde og dempning  |NEW                             |
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon     |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin        |Rom# garasje                           |WIP                             |
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon          |Måle lengde og dempning                |Merking OK                      |
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Aleks/Mardon    |Måle lengde og dempning                |Verifiser #1-18                 |
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus      |N/A                                    |New                             |
-|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon          |Måle lengde og dempning                |OK                              |
+|                  Panel                 |   Coordinator   |                  TODO                 |             Status             |
+|----------------------------------------|-----------------|---------------------------------------|--------------------------------|
+|[Loft](Panels/Loft.md)                  |Jarl Even        |N/A                                    |New                             |
+|[Garasje](Panels/Garasje.md)            |Jarl Even        |N/A                                    |New                             |
+|[External](Panels/External.md)          |Jarl Even        |Dokumenter link til loft               |WIP                             |
+|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy/Simon      |Verifiser<br/>Måle lengde og dempning  |New                             |
+|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin |Måle lengde og dempning                |New                             |
+|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex              |N/A                                    |OK 31.08.2018                   |
+|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|Rex              |Måle lengde og dempning                |Kopling OK                      |
+|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon        |N/A                                    |OK 31.08.2018                   |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Eirik |Måle lengde og dempning<br/>terminere  |Merking OK                      |
+|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin         |Måle lengde og dempning                |Verify 5-9 + 11-13              |
+|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik  |Verifiser<br/>Måle lengde og dempning  |NEW                             |
+|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon      |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
+|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin         |Rom# garasje                           |WIP                             |
+|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon           |Måle lengde og dempning                |Merking OK                      |
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Aleksander/Mardon|Måle lengde og dempning                |Verifiser #1-18                 |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus       |N/A                                    |New                             |
+|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon           |Måle lengde og dempning                |OK                              |
 
 [comment]: # (Autotable stop)
 
