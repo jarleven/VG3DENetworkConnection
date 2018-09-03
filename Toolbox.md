@@ -44,3 +44,6 @@ Brother P-Touch labelprinter
 http://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=3600eus&pfs=1&faqid=faqp00001040_003
 
 To print labels for the patch panels and patches 
+
+P-Touch software
+http://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=p750weus&os=10011
