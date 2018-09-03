@@ -58,7 +58,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon     |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
 |[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin        |Rom# garasje                           |WIP                             |
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon          |Måle lengde og dempning                |Merking OK                      |
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Jarl Even       |Måle lengde og dempning                |Verifiser #1-18                 |
+|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Aleks/Mardon    |Måle lengde og dempning                |Verifiser #1-18                 |
 |[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus      |N/A                                    |New                             |
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon          |Måle lengde og dempning                |OK                              |
 
