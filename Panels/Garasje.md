@@ -30,4 +30,4 @@
 |   24|                  |      |       |         |
 
 ##### Tilstand: New
-##### TODO: N/A
+##### TODO: -
