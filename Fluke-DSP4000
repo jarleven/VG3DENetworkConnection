@@ -1,0 +1,23 @@
+Selecting a Test Standard and Cable Type:
+
+To select a test standard and cable type, proceed as follows:
+1. Turn the rotary switch to SETUP.
+2. Press 1 (Choice).The standards list starts with the last five standards
+used. Press 4	(Page Down) to see more standards.
+3. Use (Arrow up) and (Arrow down) to highlight the test standard you want.
+4. Press (Enter) to accept the highlighted test standard. The test tool displays a
+menu of the cable types valid for the selected test standard.
+5. Use (Arrow up) and (Arrow down) to select the cable type you want; then press (Enter).
+6. If you selected a shielded cable type, the next display lets you enable or
+disable the shield test. Use (Arrow up) and (Arrow down) to select the setting you want; then press (Enter).
+
+Testing:
+1. Turn the rotary to SINGLE TEST
+2. Choose what you want to test;
+  -Length
+  -Wire Map
+  -Attenuation
+3.Press ENTER, After you have choosen what you want to test. 
+
+Source of the manual:
+https://www.atecorp.com/ATECorp/media/pdfs/data-sheets/Fluke-DSP4000_Manual.pdf page 2-35
