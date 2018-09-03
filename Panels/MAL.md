@@ -1,4 +1,5 @@
-## Some panel
+## DE 0000A - R1 - P1
+##### Lokasjon: Some panel
 ##### Author: John Doe
 
 |  #  |        Til       |Lengde|Demping|Kommentar|

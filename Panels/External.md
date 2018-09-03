@@ -1,4 +1,5 @@
 ## SFJ Patch ut av "Elektroavdelinga"
+##### Lokasjon: 3DEA
 ##### Author: Jarl Even
 
 |    Patchepanel   |      Krysskopling       |  Kommentar    |
