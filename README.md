@@ -39,6 +39,18 @@ R1	= Rack 1
 P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ```
 
+
+## Ei liste med oppgåver 
+
+* Terminere 3DEA-2DEA, Terminere 3DEA-3AUA, forlenge ledningar i 3DEA rack 1
+* Kva har vi av utstyr i dei forskjellige romma
+* Kva er allerede dokumentert
+* Verifisere dokumentasjonen
+* Terminere alle lause ledninger (Fullføre arbeidet starta våren 2018)
+* Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
+* Vi lagar teikningar av alle romma på papir (rå skisse) Denne krysssjekkar vi mot patch panel dokumentasjonen
+
+
 ## Panel list
 [comment]: # (Autotable start)
 
@@ -75,14 +87,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
 
 
-## Ei liste med oppgåver 
 
-* Kva har vi av utstyr i dei forskjellige romma
-* Kva er allerede dokumentert
-* Verifisere dokumentasjonen
-* Terminere alle lause ledninger (Fullføre arbeidet starta våren 2018)
-* Ny kabling (Til pultane på 2DEA og til pultane på 3DEA, til møterommet ?)
-* Vi lagar teikningar av alle romma på papir (rå skisse) Denne krysssjekkar vi mot patch panel dokumentasjonen
 
 
 
