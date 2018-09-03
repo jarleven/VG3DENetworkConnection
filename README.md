@@ -44,8 +44,8 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 
 |                  Panel                 |   Coordinator   |                  TODO                 |             Status             |
 |----------------------------------------|-----------------|---------------------------------------|--------------------------------|
-|[Loft](Panels/Loft.md)                  |Jarl Even        |N/A                                    |New                             |
-|[Garasje](Panels/Garasje.md)            |Jarl Even        |N/A                                    |New                             |
+|[Loft](Panels/Loft.md)                  |Jarl Even        |-                                      |New                             |
+|[Garasje](Panels/Garasje.md)            |Jarl Even        |-                                      |New                             |
 |[External](Panels/External.md)          |Jarl Even        |Dokumenter link til loft               |WIP                             |
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy/Simon      |Verifiser<br/>Måle lengde og dempning  |New                             |
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin |Måle lengde og dempning                |New                             |
@@ -59,7 +59,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin         |Rom# garasje                           |WIP                             |
 |[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon           |N/A                                    |OK 03.09.2018                   |
 |[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Aleksander/Mardon|N/A                                    |OK 03.09.2018                   |
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus       |N/A                                    |New                             |
+|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus       |-                                      |New                             |
 |[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon           |N/A                                    |OK 03.09.2018                   |
 
 [comment]: # (Autotable stop)
