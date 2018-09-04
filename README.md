@@ -82,7 +82,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE2101A](./Drawings/2101A-FloorPlan.svg)|Augustin             |       |             |
 |[DE2115A](./Drawings/2115A-FloorPlan.svg)|Augustin             |       |             |
 |[DE2116A](./Drawings/2116A-FloorPlan.svg)|Augustin             |       |             |
-|[DE2130A](./Drawings/2130A-FloorPlan.svg)|Augustin             |       |             |
+|[DE1130A](./Drawings/1130A-FloorPlan.svg)|Augustin             |       |             |
 
 
 ![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
