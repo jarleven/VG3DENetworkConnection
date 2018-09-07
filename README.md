@@ -54,7 +54,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ## Panel list
 [comment]: # (Autotable start)
 
-|                  Panel                 |   Coordinator   |                  TODO                 |Status|
+|                  Panel                 |   Coordinator   |                  TODO                 |             Status             |
 |----------------------------------------|-----------------|---------------------------------------|--------------------------------|
 |[Loft](Panels/Loft.md)                  |Jarl Even        |-                                      |New                             |
 |[Garasje](Panels/Garasje.md)            |Jarl Even        |-                                      |New                             |
