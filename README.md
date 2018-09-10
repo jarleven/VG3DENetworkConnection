@@ -65,7 +65,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex              |N/A                                    |OK 31.08.2018                   |
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|Rex              |Måle lengde og dempning                |Kopling OK                      |
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon        |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Erik  |Måle lengde/demping                    |##### Tilstand:                 |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Erik  |Måle lengde/demping                    |WIP                             |
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin         |Måle lengde og dempning                |Verify 5-9 + 11-13              |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik  |Verifiser<br/>Måle lengde og dempning  |NEW                             |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon      |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
