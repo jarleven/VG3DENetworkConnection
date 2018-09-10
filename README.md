@@ -58,13 +58,14 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |----------------------------------------|-----------------|---------------------------------------|--------------------------------|
 |[Loft](Panels/Loft.md)                  |Jarl Even        |-                                      |New                             |
 |[Garasje](Panels/Garasje.md)            |Jarl Even        |-                                      |New                             |
-|[External](Panels/External.md)          |Jarl Even        |Dokumenter link til loft               |WIP                             |
+|[External](Panels/External.md)          |Jarl Even        |N/A                                    |WIP                             |
 |[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy/Simon      |Verifiser<br/>Måle lengde og dempning  |New                             |
+|[DE2115A-R1-P2](Panels/DE2115A-R1-P2.md)|Vegard og Martin |N/A                                    |OK 10.09.2018                   |
 |[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin |Måle lengde og dempning                |New                             |
 |[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex              |N/A                                    |OK 31.08.2018                   |
 |[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|Rex              |Måle lengde og dempning                |Kopling OK                      |
 |[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon        |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Erik  |Terminere                              |Merking OK                      |
+|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Erik  |Måle lengde/demping                    |##### Tilstand:                 |
 |[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin         |Måle lengde og dempning                |Verify 5-9 + 11-13              |
 |[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik  |Verifiser<br/>Måle lengde og dempning  |NEW                             |
 |[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon      |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
