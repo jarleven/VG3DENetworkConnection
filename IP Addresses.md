@@ -17,3 +17,10 @@
 * Mardon		192.168.1.210 at 00:1f:fe:01:fb:00
 
 
+
+### Unknown switches probably ProCurve
+* (192.168.1.180) at 00:1f:fe:6b:56:80 [ether] on ens33
+* (192.168.1.107) at 00:1f:fe:b6:23:80 [ether] on ens33
+* (192.168.1.158) at 00:1f:fe:6b:42:80 [ether] on ens33
+* (192.168.1.139) at 00:1f:28:7c:ba:00 [ether] on ens33
+* (192.168.1.132) at 00:1f:fe:b2:39:c0 [ether] on ens33
