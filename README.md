@@ -14,12 +14,10 @@
 2-116 = 3AUA Klasserom 9
 x-XXX = Loft
 x-XXX = Garasje
-
 ```
 
 ## Blokk - Etasje- Rom - Dør
 ```
- 
   |-------> BLOKK
   |
   | |-------> ETASJE
@@ -28,8 +26,6 @@ x-XXX = Garasje
   | | |
   | | ||--------> DØR
   X-YXXA
-  
-  
 ```
 
 ```
