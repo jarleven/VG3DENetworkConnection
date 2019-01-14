@@ -84,9 +84,3 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 
 
 ![EidVGS](./Drawings/EIDVGS-SectionPlan.png){ width=400px }
-
-
-
-
-
-
