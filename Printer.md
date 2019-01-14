@@ -1,19 +1,17 @@
 # HP-LaserJet 2200dn Tutorial
 
- Trykk Add Printer
-![DE1130A](./HP/1.PNG)
+ 
+![Trykk Add Printer](./HP/1.PNG)
 
- Trykk The printer i want isnt listed
-![DE1130A](./HP/2.PNG)
+![Trykk The printer i want isnt listed](./HP/2.PNG)
 
- Velg IP/TCP
-![DE1130A](./HP/3.PNG)
+![Velg IP/TCP](./HP/3.PNG)
 
- Skriv inn IP-addressa 192.168.1.199
-![DE1130A](./HP/4.PNG)
+ 
+![ Skriv inn IP-addressa 192.168.1.199](./HP/4.PNG)
 
  Velg HP og driveren HP LaserJet 2200ps
-![DE1130A](./HP/5.PNG)
+![Velg HP og driveren HP LaserJet 2200ps](./HP/5.PNG)
 
  Velg namn på printereb
 ![DE1130A](./HP/6.PNG)
