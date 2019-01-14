@@ -1,18 +1,25 @@
-![DE1130A](https://github.com/RexTheCapt/VG3DENetworkConnection/blob/master/HP/Laserjet.PNG)
+# HP-LaserJet 2200dn Tutorial
 
-# Testmeg
+ Trykk Add Printer
 ![DE1130A](./HP/1.PNG)
-# Testmeg
+
+ Trykk The printer i want isnt listed
 ![DE1130A](./HP/2.PNG)
-# Testmeg
+
+ Velg IP/TCP
 ![DE1130A](./HP/3.PNG)
-# Testmeg
+
+ Skriv inn IP-addressa 192.168.1.199
 ![DE1130A](./HP/4.PNG)
-# Testmeg
+
+ Velg HP og driveren HP LaserJet 2200ps
 ![DE1130A](./HP/5.PNG)
-# Testmeg
+
+ Velg namn på printereb
 ![DE1130A](./HP/6.PNG)
-# Testmeg
+
+ Trykk next
 ![DE1130A](./HP/7.PNG)
-# Testmeg
+
+ Trykk på recommended
 ![DE1130A](./HP/8.PNG)
