@@ -1,9 +1,9 @@
 # Reserved IP addresses
-#### Last update: 15/01/19
+#### Last update: 25/01/19
 
 | Subnet    | Fra | Til | Kommentar            |
 |-----------|----:|----:|----------------------|
-| 192.168.1 |  10 |  11 | WDS Server           |
+| 192.168.1 |   2 |   2 | WDS Server Host      |
 | 192.168.1 |  80 |  88 | 3DEA Student Servers |
 | 192.168.1 |  90 |  98 | 3DEA Student Laptops |
 | 192.168.1 | 100 | 250 | DHCP Server          |
@@ -11,10 +11,10 @@
 
 # Static IP addresses
 #### Last Update: 25/01/19
-| Address      | Unit name      | Comment                              |
-|--------------|----------------|--------------------------------------|
-| 192.168.1.10 | BATMAN         | Server Host                          |
-| 192.168.1.11 | ROBIN          | WDS, DHCP, DNS server (VM on BATMAN) |
+| Address         | VLAN ID | Unit name      | Comment                              |
+|-----------------|---------|----------------|--------------------------------------|
+| 192.168.1.2/24  |       1 | BATMAN         | WDS Server Host                      |
+| 10.0.5.1/24     |       5 | ROBIN          | WDS, DHCP, DNS server (VM on BATMAN) |
 
 
 ### HP ProCurve switch 2610-24/12PWR J9086A
