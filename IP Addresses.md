@@ -9,6 +9,7 @@
 | 192.168.1 | 100 | 250 | DHCP Server          |
 
 
+
 # Static IP addresses
 #### Last Update: 25/01/19
 | Address         | VLAN ID | Unit name      | Comment                                    |
@@ -17,6 +18,7 @@
 | 192.168.1.2/24  |       1 | BATMAN         | WDS Server Host                            |
 | 192.168.1.4/24  |       1 | freenas        | File share server                          |
 | 10.0.5.1/24     |       5 | ROBIN          | WDS, DHCP, DNS server (VM on BATMAN)       |
+
 
 
 ### HP ProCurve switch 2610-24/12PWR J9086A
