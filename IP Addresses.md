@@ -11,31 +11,26 @@
 
 
 # Static IP addresses
-#### Last Update: 04/02/19
-| Address         | VLAN ID | Unit name      | Comment                                    |
-|-----------------|---------|----------------|--------------------------------------------|
-| 192.168.1.1/24  |       1 | Router         | It's the gateway and router                |
-| 192.168.1.2/24  |       1 | BATMAN         | WDS Server Host                            |
-| 192.168.1.3/24  |       1 | Starlord       | Web/torrent server                         |
-| 192.168.1.4/24  |       1 | freenas        | File share server                          |
-| 10.0.5.1/24     |       5 | ROBIN          | WDS, DHCP, DNS server (VM on BATMAN)       |
+#### Last Update: 06/02/19
+| Address         | VLAN ID | Unit name      | MAC               | Virtual | Comment                                    |
+|-----------------|---------|----------------|-------------------|---------|--------------------------------------------|
+| 192.168.1.1/24  |       1 | Router         | --:--:--:--:--:-- |         | It's the gateway and router                |
+| 192.168.1.2/24  |       1 | BATMAN         | B4:99:BA:C1:8F:98 |         | WDS Server Host                            |
+| 192.168.1.3/24  |       1 | Starlord       |                   | BATMAN  | Web/torrent server                         |
+| 192.168.1.4/24  |       1 | freenas        | --:--:--:--:--:-- |         | File share server                          |
+| 192.168.1.5/24  |       1 | Flash          | E8:39:35:21:60:78 |         | An ESXI hyper visor management network     |
+| 192.168.1.10/24 |       1 |                | --:--:--:--:--:-- |         | An IP camera                               |
+| 10.0.5.1/24     |       5 | ROBIN          | --:--:--:--:--:-- |         | WDS, DHCP, DNS server (VM on BATMAN)       |
+|                 |         |                | --:--:--:--:--:-- |         |                                            |
 
 
 
-### HP ProCurve switch 2610-24/12PWR J9086A
-#### Last update: 15/10/18
-
-| Owner      | IP address    | MAC address       |
-|------------|---------------|-------------------|
-| Mardon     | 192.168.1.209 | 00:1F:FE:01:FB:00 |
-| Tommy      | 192.168.1.203 | B4:39:D6:41:66:40 |
-| Erik       | 192.168.1.208 | 00:1F:FE:02:86:40 |
-| Rex        | 192.168.1.250 | 00:1F:FE:5D:26:C0 |
-| Aleksander | 192.168.1.207 | 00:1F:FE:08:97:80 |
-| Simon      | 192.168.1.206 | 00:1D:B3:F0:B3:80 |
-| Torstein   | 192.168.1.249 | 00:1F:FE:01:8E:C0 |
-| Augustin   | 192.168.1.240 | 00:1F:FE:5B:31:C0 |
-| Julian     | 192.168.1.241 | 00:1F:FE:07:1F:80 |
+# ILO
+#### Last Update: 06/02/19
+| Server Serial Number | Hostname        | Server Name     | MAC               | Installed on machine |
+|----------------------|-----------------|-----------------|-------------------|----------------------|
+| CZ22130BS5           | ILOFLASH.local  | ILOFLASH.LOCAL  | E8:39:35:21:60:78 | Flash                |
+| CZ21290CDX           | ILOBATMAN.local | ilobatman.local | B4:99:BA:C1:8F:9E | BATMAN               |
 
 
 
