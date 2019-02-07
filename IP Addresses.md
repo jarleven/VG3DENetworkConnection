@@ -18,7 +18,7 @@ Last Update: 06/02/19
 | 192.168.1.1/24  |       1 | Router         | --:--:--:--:--:-- |         | It's the gateway and router                |
 | 192.168.1.2/24  |       1 | BATMAN         | B4:99:BA:C1:8F:98 |         | WDS Server Host                            |
 | 192.168.1.3/24  |       1 | Starlord       |                   | BATMAN  | Web/torrent server                         |
-| 192.168.1.4/24  |       1 | freenas        | --:--:--:--:--:-- |         | File share server                          |
+| 192.168.1.4/24  |       1 | Freenas        | --:--:--:--:--:-- |         | File share server                          |
 | 192.168.1.5/24  |       1 | Flash          | E8:39:35:21:60:78 |         | An ESXI hyper visor management network     |
 | 192.168.1.10/24 |       1 |                | --:--:--:--:--:-- |         | An IP camera                               |
 | 10.0.5.1/24     |       5 | ROBIN          | --:--:--:--:--:-- |         | WDS, DHCP, DNS server (VM on BATMAN)       |
@@ -35,6 +35,13 @@ Last Update: 06/02/19
 | CZ21290CDX           | ILOBATMAN.local | ilobatman.local | B4:99:BA:C1:8F:9E | BATMAN               |
 
 
+# Remote Screen Device Addresses
+Last Updeate: 07/02/19
+
+| Static IP       | MAC               | Host Name   | Connected To           |
+|-----------------|-------------------|-------------|------------------------|
+| ---.---.---.--- | 00:80:a3:8e:b2:0f | SLSA38EB20F | Freenas                |
+| ---.---.---.--- | --:--:--:--:--:-- |             |                        |
 
 ### Unknown switches probably ProCurve
 Last update: 15/10/18
