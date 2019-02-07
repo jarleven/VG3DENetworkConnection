@@ -1,5 +1,5 @@
 # Reserved IP addresses
-#### Last update: 25/01/19
+Last update: 25/01/19
 
 | Subnet    | Fra | Til | Kommentar            |
 |-----------|----:|----:|----------------------|
@@ -11,7 +11,8 @@
 
 
 # Static IP addresses
-#### Last Update: 06/02/19
+Last Update: 06/02/19
+
 | Address         | VLAN ID | Unit name      | MAC               | Virtual | Comment                                    |
 |-----------------|---------|----------------|-------------------|---------|--------------------------------------------|
 | 192.168.1.1/24  |       1 | Router         | --:--:--:--:--:-- |         | It's the gateway and router                |
@@ -25,8 +26,9 @@
 
 
 
-# ILO
-#### Last Update: 06/02/19
+# iLO
+Last Update: 06/02/19
+
 | Server Serial Number | Hostname        | Server Name     | MAC               | Installed on machine |
 |----------------------|-----------------|-----------------|-------------------|----------------------|
 | CZ22130BS5           | ILOFLASH.local  | ILOFLASH.LOCAL  | E8:39:35:21:60:78 | Flash                |
@@ -35,7 +37,7 @@
 
 
 ### Unknown switches probably ProCurve
-#### Last update: 15/10/18
+Last update: 15/10/18
 
 | IP address    | MAC address       |
 |---------------|-------------------|
