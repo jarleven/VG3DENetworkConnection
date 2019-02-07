@@ -29,5 +29,5 @@
 |   23|                  |      |       |         |
 |   24|                  |      |       |         |
 
-##### Tilstand: New
+##### Tilstand: New dd/mm/yy
 ##### TODO: N/A
