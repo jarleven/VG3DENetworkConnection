@@ -21,7 +21,7 @@ Last Update: 06/02/19
 | 192.168.1.4/24  |       1 | Freenas        | --:--:--:--:--:-- |         | File share server                          |
 | 192.168.1.5/24  |       1 | Flash          | E8:39:35:21:60:78 |         | An ESXI hyper visor management network     |
 | 192.168.1.10/24 |       1 |                | --:--:--:--:--:-- |         | An IP camera                               |
-| 10.0.5.1/24     |       5 | ROBIN          | --:--:--:--:--:-- |         | WDS, DHCP, DNS server (VM on BATMAN)       |
+| 10.0.5.1/24     |       5 | ROBIN          | --:--:--:--:--:-- | BATMAN  | WDS, DHCP, DNS server (VM on BATMAN)       |
 |                 |         |                | --:--:--:--:--:-- |         |                                            |
 
 
