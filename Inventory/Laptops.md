@@ -16,7 +16,7 @@ ENTER - Continue Startup
 
 
 
-BISO DATE 04/19/2012
+Tested one random laptop 31.10.2019 the BIOS date installed was "04/19/2012" !
 
 
 
