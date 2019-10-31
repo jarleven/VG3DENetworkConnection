@@ -2,7 +2,7 @@ HP ProBook 4540s
 
 Bios "ESC" key
 
-
+```
 F1 System Information
 F2 System Diagnostics
 
@@ -13,7 +13,7 @@ F10 BIOS Setup
 F12 Network Boot
 
 ENTER - Continue Startup
-
+```
 
 
 Tested one random laptop 31.10.2019 the BIOS date installed was "04/19/2012" !
