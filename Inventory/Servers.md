@@ -16,3 +16,6 @@
 ## Create USB Service Pack for ProLiant (SPP) bootable media 
 
 https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-c03029169
+
+The SPP
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_a6fe854af60d4b86a8905f0e27#tab-history
