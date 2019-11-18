@@ -11,6 +11,9 @@
 
 
 
+## Server resources
+ * iLO firmware download : https://pingtool.org/latest-hp-ilo-firmwares/
+ * https://support.hpe.com/hpesc/public/km/product/3883933/Product#t=DriversandSoftware&sort=relevancy&layout=table
 
 
 
