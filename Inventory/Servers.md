@@ -6,6 +6,8 @@
 | 1 | DL360 G6 | 00:23:7D:E9:C8:F8 | 00:23:7D:E9:C8:FA |        NA         |         NA        | 00:24:81:FB:17:92 | ILOCZJ92200E9 | iLO 2 Advanced |
 | 2 | DL360 G6 | D8:D3:85:B9:57:DC | D8:D3:85:B9:57:DE |        NA         |         NA        | D8:D3:85:C0:ED:30 | ILOCZJ0110282 | iLO 2          |
 | 3 | DL380 G7 | E8:39:35:26:4F:9A | E8:39:35:26:4F:9C | E8:39:35:26:4F:9E | E8:39:35:26:4F:A0 | E8:39:35:26:4F:A2 | ILOCZ22130BS7 | iLO 3 Advanced |
+| 4 | DL360 G6 | 00:25:B3:AB:4A:7C | 00:25:B3:AB:4A:7E |---------NA--------|--------NA---------| 00:25:B3:AD:B6:14 | ILOCZJ92808AW | iLO 2          |
+| 5 | DL380 G6 | 00:24:81:E1:C7:30 | 00:24:81:E1:C7:32 | 00:24:81:E1:C7:34 | 00:24:81:E1:C7:36 | 00:24:81:E1:C7:38 | ILOCZC92036J6 | iLO 2 Advanced |
 | 9 | DL360 G6 | 1C:C1:DE:05:1E:78 | 1C:C1:DE:05:1E:7A |        NA         |         NA        | 1C:C1:DE:08:17:58 | ILOCZJ02209Q2 | iLO 2 Advanced | 
 
 
