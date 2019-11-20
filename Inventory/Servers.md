@@ -30,3 +30,63 @@ https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_a6fe854af60d4b86a890
 
 ## iLO trial license
 https://www.hpe.com/no/en/resources/integrated-systems/ilo-advanced-trial.html
+
+
+
+
+
+
+## HP support / Proliant server support
+https://buy.hpe.com/us/en/register
+
+## iLO lisens
+For remote desktop/IPKVM funksjonen så må ein ha aktiv iLO lisens.
+PS EIN DEL MASKINER HAR EIN AKTIV LISENS. IKKJE LAST TRIAL LISENS PÅ DEI !!!!!!
+https://www.hpe.com/no/en/resources/integrated-systems/ilo-advanced-trial.html
+
+## HP Support search
+https://support.hpe.com/hpesc/public/home
+Søk "Proliant DL380 G6"
+
+
+
+## Check warranty
+https://support.hp.com/us-en/checkwarranty
+
+
+## BIOS DL380 G6
+** CRITICAL ** System ROMPaq Firmware Upgrade for HP ProLiant DL380 G6 (P62) Servers (For USB Key-Media)
+Type:	BIOS (Entitlement Required) - System ROM
+Version:	2018.05.21(A)(6 Jul 2018)
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_0a5cb34d96e04ab3bde007ae31
+
+## BOIS DL380 G7
+** CRITICAL ** System ROMPaq Firmware Upgrade for HP ProLiant DL380 G7 (P67) Servers (For USB Key-Media)
+Type:	BIOS (Entitlement Required) - System ROM
+Version:	2018.05.21(A)(6 Jul 2018)
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_eeaa965a7d8a4990bcc245dfc3
+
+
+## BOIS DL360 G6
+** CRITICAL ** System ROMPaq Firmware Upgrade for HP ProLiant DL360 G6 (P64) Servers (For USB Key-Media)
+Type:	BIOS (Entitlement Required) - System ROM
+Version:	2018.05.21(A)(6 Jul 2018)
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_7ff671b57d47497a9cff0850fe
+
+
+## Proliant Service Pack's SPP
+
+### SPP Version:	G7.1(21 Dec 2017)
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_c8aabf8e79de4b6d85905bd9f0#tab3
+sha256
+99293396855a023d2d8c0df270dfb9b60ef83878c32a83ca102565f93c5ac80f	SPPG71.3.iso
+
+
+### SPP 2017.04.0(21 Apr 2017)  G6 support
+http://updater.saldabit.com/apps/
+https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_3f6b4074ed734dc3baf007612d
+sha256 a434acaac2561169c1bd78f2c02177c43e7eb5ab0b35c049f54d47969f138d43	SPP2017040.2017_0420.14.iso
+
+
+## SPP matrix
+https://downloads.hpe.com/pub/softlib2/software1/doc/p1205445419/v128631/2017.04_SPP_Server_Support_Guide.pdf
