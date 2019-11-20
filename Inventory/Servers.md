@@ -60,14 +60,14 @@ Type:	BIOS (Entitlement Required) - System ROM
 Version:	2018.05.21(A)(6 Jul 2018)
 https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_0a5cb34d96e04ab3bde007ae31
 
-## BOIS DL380 G7
+## BIOS DL380 G7
 ** CRITICAL ** System ROMPaq Firmware Upgrade for HP ProLiant DL380 G7 (P67) Servers (For USB Key-Media)
 Type:	BIOS (Entitlement Required) - System ROM
 Version:	2018.05.21(A)(6 Jul 2018)
 https://support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_eeaa965a7d8a4990bcc245dfc3
 
 
-## BOIS DL360 G6
+## BIOS DL360 G6
 ** CRITICAL ** System ROMPaq Firmware Upgrade for HP ProLiant DL360 G6 (P64) Servers (For USB Key-Media)
 Type:	BIOS (Entitlement Required) - System ROM
 Version:	2018.05.21(A)(6 Jul 2018)
