@@ -1,4 +1,4 @@
-## DE 0000A - R1 - P1
+## DE 0000 - R1 - P1
 ##### Lokasjon: Some panel
 ##### Author: John Doe
 
