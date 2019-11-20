@@ -50,27 +50,29 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ## Panel list
 [comment]: # (Autotable start)
 
-|                  Panel                 |   Coordinator   |                  TODO                 |             Status             |
-|----------------------------------------|-----------------|---------------------------------------|--------------------------------|
-|[Loft](Panels/Loft.md)                  |Jarl Even        |-                                      |New                             |
-|[Garasje](Panels/Garasje.md)            |Jarl Even        |-                                      |New                             |
-|[External](Panels/External.md)          |Jarl Even        |N/A                                    |WIP                             |
-|[DE2116A-R1-P2](Panels/DE2116A-R1-P2.md)|---              |---                                    |WIP                             |
-|[DE2116A-R1-P1](Panels/DE2116A-R1-P1.md)|Tommy/Simon      |Verifiser<br/>Måle lengde og dempning  |New                             |
-|[DE2115A-R1-P2](Panels/DE2115A-R1-P2.md)|Vegard og Martin |N/A                                    |OK 10.09.2018                   |
-|[DE2115A-R1-P1](Panels/DE2115A-R1-P1.md)|Vegard og Martin |Måle lengde og dempning                |New                             |
-|[DE2101A-R3-P2](Panels/DE2101A-R3-P2.md)|Rex              |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R3-P1](Panels/DE2101A-R3-P1.md)|Rex              |Måle lengde og dempning                |Kopling OK                      |
-|[DE2101A-R1-P3](Panels/DE2101A-R1-P3.md)|Rex/Simon        |N/A                                    |OK 31.08.2018                   |
-|[DE2101A-R1-P2](Panels/DE2101A-R1-P2.md)|Aleksander/Erik  |Måle lengde/demping                    |WIP                             |
-|[DE2101A-R1-P1](Panels/DE2101A-R1-P1.md)|Augustin         |Måle lengde og dempning                |Verify 5-9 + 11-13              |
-|[DE1132A-R1-P2](Panels/DE1132A-R1-P2.md)|Aleksander/Erik  |Verifiser<br/>Måle lengde og dempning  |NEW                             |
-|[DE1132A-R1-P1](Panels/DE1132A-R1-P1.md)|Tommy/Simon      |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24|
-|[DE1130A-R1-P5](Panels/DE1130A-R1-P5.md)|Augustin         |Rom# garasje                           |WIP                             |
-|[DE1130A-R1-P2](Panels/DE1130A-R1-P2.md)|Mardon           |N/A                                    |OK 03.09.2018                   |
-|[DE1130A-R1-P1](Panels/DE1130A-R1-P1.md)|Aleksander/Mardon|N/A                                    |OK 03.09.2018                   |
-|[DE1129A-R1-P1](Panels/DE1129A-R1-P1.md)|Per Magnus       |-                                      |New                             |
-|[DE1124A-R0-P1](Panels/DE1124A-R0-P1.md)|Mardon           |N/A                                    |OK 03.09.2018                   |
+|                 Panel                |   Coordinator   |                  TODO                 |                  Status                 |
+|--------------------------------------|-----------------|---------------------------------------|-----------------------------------------|
+|[Loft](Panels/Loft.md)                |Jarl Even        |-                                      |New 31/08/18                             |
+|[Garasje](Panels/Garasje.md)          |Jarl Even        |-                                      |New 31/08/18                             |
+|[External](Panels/External.md)        |Jarl Even        |N/A                                    |WIP                                      |
+|[DE2116-R1-P2](Panels/DE2116-R1-P2.md)|---              |---                                    |WIP 11/09/18                             |
+|[DE2116-R1-P1](Panels/DE2116-R1-P1.md)|Tommy/Simon      |Verifiser<br/>Måle lengde og dempning  |New 31/08/18                             |
+|[DE2115-R1-P2](Panels/DE2115-R1-P2.md)|Vegard og Martin |N/A                                    |OK 10.09.2018                            |
+|[DE2115-R1-P1](Panels/DE2115-R1-P1.md)|Vegard og Martin |Fyll inn info                          |New 31/08/18                             |
+|[DE2101-R3-P2](Panels/DE2101-R3-P2.md)|Rex              |Fix#10                                 |OK 31.08.2018                            |
+|[DE2101-R3-P1](Panels/DE2101-R3-P1.md)|Rex              |##### TODO:                            |Kopling OK 31/08/18                      |
+|[DE2101-R1-P4](Panels/DE2101-R1-P4.md)|Torgeir          |Demping                                |OK 23.10.2019                            |
+|[DE2101-R1-P3](Panels/DE2101-R1-P3.md)|Rex/Simon        |Fix #10                                |OK 31.08.2018                            |
+|[DE2101-R1-P2](Panels/DE2101-R1-P2.md)|Aleksander/Erik  |Måle lengde/demping                    |WIP 10/09/18                             |
+|[DE2101-R1-P1](Panels/DE2101-R1-P1.md)|Augustin         |Måle lengde og dempning                |Verify 5-9 + 11-13 31/08/18              |
+|[DE1132-R1-P2](Panels/DE1132-R1-P2.md)|Aleksander/Erik  |Verifiser<br/>Måle lengde og dempning  |NEW 31/08/18                             |
+|[DE1132-R1-P1](Panels/DE1132-R1-P1.md)|Tommy/Simon      |Test #1..20<br/>Måle lengde og dempning|Merking OK for:<br/>#21,22,23,24 01/09/18|
+|[DE1130-R1-P7](Panels/DE1130-R1-P7.md)|Fedaa            |ALT                                    |##### Tilstand:	WIP Nov 2019             |
+|[DE1130-R1-P5](Panels/DE1130-R1-P5.md)|Augustin         |Rom# garasje                           |WIP                                      |
+|[DE1130-R1-P2](Panels/DE1130-R1-P2.md)|Mardon           |N/A                                    |OK 03.09.2018                            |
+|[DE1130-R1-P1](Panels/DE1130-R1-P1.md)|Aleksander/Mardon|N/A                                    |OK 03.09.2018                            |
+|[DE1129-R1-P1](Panels/DE1129-R1-P1.md)|Per Magnus       |-                                      |New 31/08/18                             |
+|[DE1124-R0-P1](Panels/DE1124-R0-P1.md)|Mardon           |N/A                                    |OK 03.09.2018                            |
 
 [comment]: # (Autotable stop)
 
