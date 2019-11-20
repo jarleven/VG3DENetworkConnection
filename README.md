@@ -73,6 +73,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE1130-R1-P1](Panels/DE1130-R1-P1.md)|Aleksander/Mardon|N/A                                    |OK 03.09.2018                            |
 |[DE1129-R1-P1](Panels/DE1129-R1-P1.md)|Per Magnus       |-                                      |New 31/08/18                             |
 |[DE1124-R0-P1](Panels/DE1124-R0-P1.md)|Mardon           |N/A                                    |OK 03.09.2018                            |
+|[DE0000-R0-P0](Panels/DE0000-R0-P0.md)|                 |                                       |                                         |
 
 [comment]: # (Autotable stop)
 
