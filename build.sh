@@ -1,8 +1,18 @@
 #!/bin/bash
 
+
 rm ./Autogen/*
 
+rm ./Pandoc/header.md
+git checkout ./Pandoc/header.md
+
 git pull
+
+DATO=`date +"%d-%m-%Y"`
+echo "Datoen er "$DATO
+sed -i'' "s/3DEA Dokumentasjon/3DEA Dokumentasjon $DATO/g" ./Pandoc/header.md
+
+
 ./author.sh
 ./makedoc_v2.sh NetworkDocumentation
 
