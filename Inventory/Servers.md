@@ -1,6 +1,24 @@
 
 
 
+### Proliant DL380/DL360 G6/G7
+
+```
+F11 Select boot device
+
+F8 RAID array configuration  	/ F8 iLO 
+
+F1 Continue
+
+F9 ROM based setup utility
+
+F10 System maintainance menu
+
+F12 Network boot
+```
+
+### Inventory
+
 | # |   Type   |        MAC 1      |        MAC 2      |        MAC 3      |     MAC 4         |      iLO MAC      |    iLO Name   |    iLO type    |
 |---|----------|-------------------|-------------------|-------------------|-------------------|-------------------|---------------|----------------|
 | 1 | DL360 G6 | 00:23:7D:E9:C8:F8 | 00:23:7D:E9:C8:FA |        NA         |         NA        | 00:24:81:FB:17:92 | ILOCZJ92200E9 | iLO 2 Advanced |
