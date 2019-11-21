@@ -9,14 +9,4 @@
 | D-2101.4         | Switch 2 R3 | <-> | D-2101.4 | Link til loft |
 
 ##### Tilstand: WIP
-##### TODO: N/A
-
-#### Skriv kor vi finn D-2101.2 D.21013 og D2101.4
-#### Dei står i taket framme / bak  og i kanal bak i rommet
-
-#### Kva er desse koplingane til osv...
-
-#### 2 patchar i taket over projector 3DEA - Går til inntak rom nede ved toalett elektrofløy
-#### 1 patch bak med rack 3 gr til loft antenne for Lora og Skipenes
-
-#### 2 andre uttak inne på 3DEA ved det gamle projectorfestet
+##### TODO: Lag kart over D-2101.2 .. D-2101.4
