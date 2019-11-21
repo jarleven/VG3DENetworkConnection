@@ -68,6 +68,7 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 |[DE1132-R1-P2](Panels/DE1132-R1-P2.md)|Aleksander/Erik  |Verifiser lengde og dempning|NEW 31/08/18                |
 |[DE1132-R1-P1](Panels/DE1132-R1-P1.md)|Tommy/Simon      |Verifiser lengde og dempning|Verifiser                   |
 |[DE1130-R1-P7](Panels/DE1130-R1-P7.md)|Fedaa            |ALT                         |##### Tilstand:	WIP Nov 2019|
+|[DE1130-R1-P6](Panels/DE1130-R1-P6.md)|Fedaa            |Rom# garasje                |WIP                         |
 |[DE1130-R1-P5](Panels/DE1130-R1-P5.md)|Augustin         |Rom# garasje                |WIP                         |
 |[DE1130-R1-P4](Panels/DE1130-R1-P4.md)|Fedaa            |ALT                         |##### Tilstand:	WIP Nov 2019|
 |[DE1130-R1-P2](Panels/DE1130-R1-P2.md)|Mardon           |N/A                         |OK 03.09.2018               |
