@@ -1,4 +1,4 @@
-# Vlan
+# VLAN
 #### Vlan IDs on the network
 
 | Vlan NR | Name        | Comment                  |
