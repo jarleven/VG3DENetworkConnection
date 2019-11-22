@@ -50,33 +50,33 @@ P1	= Patch Panel 1	 (Panel i rack, skap eller på vegg)
 ## Panel list
 [comment]: # (Autotable start)
 
-|                 Panel                |   Coordinator   |               TODO               |           Status           |
-|--------------------------------------|-----------------|----------------------------------|----------------------------|
-|[Loft](Panels/Loft.md)                |Jarl Even        |-                                 |New 31/08/18                |
-|[Garasje](Panels/Garasje.md)          |Jarl Even        |-                                 |New 31/08/18                |
-|[External](Panels/External.md)        |Jarl Even        |Lag kart over D-2101.2 .. D-2101.4|WIP                         |
-|[DE2116-R1-P2](Panels/DE2116-R1-P2.md)|---              |---                               |WIP 11/09/18                |
-|[DE2116-R1-P1](Panels/DE2116-R1-P1.md)|Tommy/Simon      |Verifiser lengde og dempning      |New 31/08/18                |
-|[DE2115-R1-P2](Panels/DE2115-R1-P2.md)|Vegard og Martin |N/A                               |OK 10.09.2018               |
-|[DE2115-R1-P1](Panels/DE2115-R1-P1.md)|Vegard og Martin |Fyll inn info                     |New 31/08/18                |
-|[DE2101-R3-P2](Panels/DE2101-R3-P2.md)|Rex              |Fix#10                            |OK 31.08.2018               |
-|[DE2101-R3-P1](Panels/DE2101-R3-P1.md)|Rex              |##### TODO:                       |Kopling OK 31/08/18         |
-|[DE2101-R1-P4](Panels/DE2101-R1-P4.md)|Torgeir          |Demping                           |OK 23.10.2019               |
-|[DE2101-R1-P3](Panels/DE2101-R1-P3.md)|Rex/Simon        |Fix #10                           |OK 31.08.2018               |
-|[DE2101-R1-P2](Panels/DE2101-R1-P2.md)|Aleksander/Erik  |Maale lengde/demping              |WIP 10/09/18                |
-|[DE2101-R1-P1](Panels/DE2101-R1-P1.md)|Augustin         |Måle lengde og dempning           |Verify 5-9 + 11-13 31/08/18 |
-|[DE1132-R1-P2](Panels/DE1132-R1-P2.md)|Aleksander/Erik  |Verifiser lengde og dempning      |NEW 31/08/18                |
-|[DE1132-R1-P1](Panels/DE1132-R1-P1.md)|Tommy/Simon      |Verifiser lengde og dempning      |Verifiser                   |
-|[DE1130-R1-P7](Panels/DE1130-R1-P7.md)|Fedaa            |ALT                               |##### Tilstand:	WIP Nov 2019|
-|[DE1130-R1-P6](Panels/DE1130-R1-P6.md)|Fedaa            |Rom# garasje                      |WIP                         |
-|[DE1130-R1-P5](Panels/DE1130-R1-P5.md)|Augustin         |Rom# garasje                      |WIP                         |
-|[DE1130-R1-P4](Panels/DE1130-R1-P4.md)|Fedaa            |ALT                               |##### Tilstand:	WIP Nov 2019|
-|[DE1130-R1-P2](Panels/DE1130-R1-P2.md)|Mardon           |N/A                               |OK 03.09.2018               |
-|[DE1130-R1-P1](Panels/DE1130-R1-P1.md)|Aleksander/Mardon|N/A                               |OK 03.09.2018               |
-|[DE1129-R1-P1](Panels/DE1129-R1-P1.md)|Per Magnus       |-                                 |New 31/08/18                |
-|[DE1124-R0-P1](Panels/DE1124-R0-P1.md)|Mardon           |N/A                               |OK 03.09.2018               |
-|[DE0001-R0-P0](Panels/DE0001-R0-P0.md)|                 |                                  |                            |
-|[DE0000-R0-P0](Panels/DE0000-R0-P0.md)|                 |                                  |                            |
+|                 Panel                |     Coordinator    |                   TODO                   |           Status           |
+|--------------------------------------|--------------------|------------------------------------------|----------------------------|
+|[Loft](Panels/Loft.md)                |Jarl Even           |-                                         |New 31/08/18                |
+|[Garasje](Panels/Garasje.md)          |Jarl Even           |-                                         |New 31/08/18                |
+|[External](Panels/External.md)        |Jarl Even           |Lag kart over D-2101.2 .. D-2101.4        |WIP                         |
+|[DE2116-R1-P2](Panels/DE2116-R1-P2.md)|---                 |---                                       |WIP 11/09/18                |
+|[DE2116-R1-P1](Panels/DE2116-R1-P1.md)|Torgeir/Brian/Marcus|Verifiser lengde og dempning; Terminere 18|OK 22/11/19                 |
+|[DE2115-R1-P2](Panels/DE2115-R1-P2.md)|Vegard og Martin    |N/A                                       |OK 10.09.2018               |
+|[DE2115-R1-P1](Panels/DE2115-R1-P1.md)|Vegard og Martin    |Fyll inn info                             |New 31/08/18                |
+|[DE2101-R3-P2](Panels/DE2101-R3-P2.md)|Rex                 |Fix#10                                    |OK 31.08.2018               |
+|[DE2101-R3-P1](Panels/DE2101-R3-P1.md)|Rex                 |##### TODO:                               |Kopling OK 31/08/18         |
+|[DE2101-R1-P4](Panels/DE2101-R1-P4.md)|Torgeir             |Demping                                   |OK 23.10.2019               |
+|[DE2101-R1-P3](Panels/DE2101-R1-P3.md)|Rex/Simon           |Fix #10                                   |OK 31.08.2018               |
+|[DE2101-R1-P2](Panels/DE2101-R1-P2.md)|Aleksander/Erik     |Maale lengde/demping                      |WIP 10/09/18                |
+|[DE2101-R1-P1](Panels/DE2101-R1-P1.md)|Augustin            |Måle lengde og dempning                   |Verify 5-9 + 11-13 31/08/18 |
+|[DE1132-R1-P2](Panels/DE1132-R1-P2.md)|Aleksander/Erik     |Verifiser lengde og dempning              |NEW 31/08/18                |
+|[DE1132-R1-P1](Panels/DE1132-R1-P1.md)|Tommy/Simon         |Verifiser lengde og dempning              |Verifiser                   |
+|[DE1130-R1-P7](Panels/DE1130-R1-P7.md)|Fedaa               |ALT                                       |##### Tilstand:	WIP Nov 2019|
+|[DE1130-R1-P6](Panels/DE1130-R1-P6.md)|Fedaa               |Rom# garasje                              |WIP                         |
+|[DE1130-R1-P5](Panels/DE1130-R1-P5.md)|Augustin            |Rom# garasje                              |WIP                         |
+|[DE1130-R1-P4](Panels/DE1130-R1-P4.md)|Fedaa               |ALT                                       |##### Tilstand:	WIP Nov 2019|
+|[DE1130-R1-P2](Panels/DE1130-R1-P2.md)|Mardon              |N/A                                       |OK 03.09.2018               |
+|[DE1130-R1-P1](Panels/DE1130-R1-P1.md)|Aleksander/Mardon   |N/A                                       |OK 03.09.2018               |
+|[DE1129-R1-P1](Panels/DE1129-R1-P1.md)|Per Magnus          |-                                         |New 31/08/18                |
+|[DE1124-R0-P1](Panels/DE1124-R0-P1.md)|Mardon              |N/A                                       |OK 03.09.2018               |
+|[DE0001-R0-P0](Panels/DE0001-R0-P0.md)|                    |                                          |                            |
+|[DE0000-R0-P0](Panels/DE0000-R0-P0.md)|                    |                                          |                            |
 
 [comment]: # (Autotable stop)
 
