@@ -6,7 +6,7 @@
 ```
 F11 Select boot device
 
-F8 RAID array configuration  	/ F8 iLO 
+F8 iLO  / F8 RAID array configuration
 
 F1 Continue
 
@@ -15,6 +15,7 @@ F9 ROM based setup utility
 F10 System maintainance menu
 
 F12 Network boot
+
 ```
 
 ### Inventory
