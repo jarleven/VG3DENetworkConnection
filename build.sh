@@ -18,6 +18,7 @@ sed -i'' "s/3DEA Dokumentasjon/3DEA Dokumentasjon $DATO/g" ./Pandoc/header.md
 
 git add README.md
 git add NetworkDocumentation.pdf
+git checkout Pandoc/header.md
 git commit -m "Autodoc"
 git push
 
