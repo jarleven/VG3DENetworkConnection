@@ -44,5 +44,5 @@ sed -i '/\[comment\]/d' ./Autogen/tmp.md
 sed -i -e 's/<br\/>/\\\r/g' ./Autogen/tmp.md
 
 
-pandoc -f markdown  -s -o $FILE.pdf ./Autogen/tmp.md
+pandoc --verbose -f markdown  -s -o $FILE.pdf ./Autogen/tmp.md
 
